@@ -5,9 +5,9 @@ title:  "Karat Home Forcasted Financial"
 
 
 
-## heading 2
+## Heading2
 
-### Heading 3
+### Heading3
 
 paragraph
 
