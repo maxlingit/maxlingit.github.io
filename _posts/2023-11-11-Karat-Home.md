@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Karat Home Forcasted Financial
-categories: [bank, fincnail]
-tags: [tt,dd]     # TAG names should always be lowercase
+#categories: [bank, fincnail]
+#tags: [tt,dd]     # TAG names should always be lowercase
 ---
 ## 背景
 
