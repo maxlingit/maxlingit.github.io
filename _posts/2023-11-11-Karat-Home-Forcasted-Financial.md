@@ -1,17 +1,14 @@
 ---
+layout: post
 title: J.P Morgan Chase
 date: 2023-11-1 
 categories: [bank, fincnail]
 tags: [tt]     # TAG names should always be lowercase
 ---
 
-
-
-
-
 ## 背景
 
-##### J.P Morgan Chase 需要我们更新财务报表来申请新一年的贷款
+#### J.P Morgan Chase 需要我们更新财务报表来申请新一年的贷款
 - 其中要求提供我们提供2024年的财务预测
 
 ## 主要事项
@@ -23,6 +20,7 @@ tags: [tt]     # TAG names should always be lowercase
 
 
 ## 进度
+> 我啊 
 
 
 
