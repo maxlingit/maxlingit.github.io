@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Karat Home Forcasted Financial
-date: 2023-11-4 12:00:00 -500
+date: 2023-11-4 12:00:00
 categories: [bank, fincnail]
 tags: [tt,dd]     # TAG names should always be lowercase
 ---
