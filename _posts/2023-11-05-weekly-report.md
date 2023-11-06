@@ -36,21 +36,6 @@ date: 2023-11-05 01:01:00
 - [ ] JPM 贷款 wayfair应收和计提佣金 #财务部 
 - [ ] Insurance Mandatory recommendations #JIE 
 - [ ] 跟进美国信用卡收款账号 Amy #JIE 
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-</style>
-
 
 
 

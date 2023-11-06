@@ -29,21 +29,3 @@ title:  "Welcome to Karathome!"
 
 
 
-
-
-
----
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-</style>
