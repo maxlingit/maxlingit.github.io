@@ -8,7 +8,6 @@ tags:
   - JIE
   - 财务部
 layout: post
-author: "Max Lin"
 ---
 
 ### 上周完成项目
