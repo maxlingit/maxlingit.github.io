@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Karathome!"
 ---
-## 背景
+# 背景
 
 ##### J.P Morgan Chase 需要我们更新财务报表来申请新一年的贷款
 - 其中要求提供我们提供2024年的财务预测
