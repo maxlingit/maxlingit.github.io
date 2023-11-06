@@ -1,6 +1,13 @@
 ---
-title: "11-05-2023-weekly-report"
-date: 2023-11-05 01:01:00 
+title: 2023-11-05 周报
+date: 2023-11-05 01:01:00
+categories:
+  - 周报
+tags:
+  - F
+  - JIE
+  - 财务部
+layout: post
 ---
 
 ### 上周完成项目
