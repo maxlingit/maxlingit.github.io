@@ -19,8 +19,11 @@ layout: post
 - [x] 9月份JPM-Borrowing base certificate #财务部 
 - [x] Monthly Sales Tax -Art of Living #财务部 
 - [x] Monthly Sales Tax -Hulala Home Sales Tax #财务部 
-- [ ] Monthly Sales Tax  -Karat Home (CA) #财务部 
+- [x] Monthly Sales Tax  -Karat Home (CA) #财务部 
 - [ ] 14 Karat Home 银行账号关闭 #财务部 
+- [x] 14 Karat Home Texas Unemployment关闭
+- [ ] 14 Karat Home NY Income & Unemployment关闭
+- [ ] 14 Karat Home NJ Income & Unemployment关闭
 - [ ] JPM 贷款 wayfair应收和计提佣金 #财务部 
 - [ ] Insurance Mandatory recommendations #JIE 
 - [ ] 跟进美国信用卡收款账号 Amy #JIE 
