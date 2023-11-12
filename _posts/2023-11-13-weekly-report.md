@@ -41,8 +41,9 @@ layout: post
 ```
 Hey Michael, See attached roof report in PDF format. And comments below received for further explaination.  They are insisting a roof inspection.
 ```
-- [ ] Look for FloorFound Payment #JIE 
-- [ ] Please reach out to Scott Dale asap #JIE 
+- [ ] Look for FloorFound Payment #JIE  
+- [ ] Please reach out to Scott Dale asap #JIE    
+
 ```
 Hi Team,  
   
