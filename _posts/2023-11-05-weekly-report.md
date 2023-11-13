@@ -33,7 +33,7 @@ layout: post
 
 ---
 ### 下周项目
-- [ ] 列一张保险成本清单和预算  #财务部 
+- [X] 列一张保险成本清单和预算  #财务部 
 - [ ] 2024年财务预测 #财务部 
 - [ ] 9月份JPM-Borrowing base certificate #财务部 
 - [ ] Monthly Sales Tax -Art of Living #财务部 

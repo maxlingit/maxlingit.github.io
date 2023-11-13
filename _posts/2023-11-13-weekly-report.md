@@ -31,12 +31,13 @@ layout: post
 - [ ] LoopNet 505 E Main St, Grand Prairie, TX 75050  #F 
 - [ ] 14 Karat Home NY Income & Unemployment关闭 #财务部 
 - [ ] 14 Karat Home NJ Income & Unemployment关闭 #财务部 
+- [ ] AR Insurance  -必须要给出3个才可以提交申请
 
 - [ ] Insurance Mandatory recommendations -Mark #JIE 
 - [ ] 跟进美国信用卡收款账号 Amy #JIE 
 > 已经注册账号，等待agent设置
 - [ ] 14 Karat Home 银行账号关闭 #财务部 
-- [ ] NJ building Inspection requirements -Dennis #JIE 
+- [ ] NJ building Inspection requirements -Dennis #JIE   
 > Last email: 
 ```
 Hey Michael, See attached roof report in PDF format. And comments below received for further explaination.  They are insisting a roof inspection.
@@ -58,8 +59,47 @@ I am waiting for a return call from another attorney and will update you if he s
 Best regards,  
 Kerry
 
-
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
