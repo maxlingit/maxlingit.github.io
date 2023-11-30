@@ -12,40 +12,41 @@ layout: post
 
 ### 上周完成项目  
 
-- [x] JPM Credit Renewal Additional Questions  [[JPM Renewal Credit Facility Renewal]]
-- [x] LoopNet 505 E Main St, Grand Prairie, TX 75050  #F 
->  卖家解决了自己的财务问题，现在不卖了
-- [x] 14 Karat Home NY Income & Unemployment关闭 #财务部 
-> 需要填写NY-45 final 邮寄
-- [x] AR Insurance  -必须要给出3个才可以提交申请
-> 已提交申请，等待价格
-- [x] Art of Living 2848 & IRS letter #F 
-- [x] Art of Living 8822-B  #F 
-- [x] Art of Living Remove Linda Stephen from Texas Registration #F 
-- [x] Independent Inventory Count 2023 YE
-> 跟美国RSM敲定是在1/3号，等待中国RSM确定具体范围
-- [x] Karat Home IRS letter  
-
+- [x] JPM Oct borrowing base Certificate #财务部 
+- [ ] 14K final 940,941 联邦员工税 #财务部
+- [ ] Eastern Venture 账户关闭    #JIE 
+	- [ ] EV Intuit
+	- [ ] EV  DFW Security
+- [x] JPM Credit Card 可疑交易，停卡    #财务部
+- [x] Look for FloorFound Payment #JIE  
+- [x] 3个新公司公司章程+股权证明    #财务部
+> Urban Vogue Living LLC    
+> EEKO HOME LLC  
+- [x] 加拿大魁北克省QST May  #财务部
+- [x] 加拿大魁北克省QST June  #财务部
+- [x] 年终库存盘点RSM 中国 /美国会议 Scope    #财务部
+- [ ] NJ 11月份库存盘点    #财务部
+- [ ] Mary 工资调整-需要找jie确认   #JIE 
+- [x] Karat Home 闲置资金账户entitlement   #财务部
+> 等待entitlement
+- [x] Karat Home 贷款更新跟进问题 #财务部
 
 ---
 ### 本周项目
 - [ ] 2024年财务预测 #财务部 
 - [ ] 公司间交易调整，KH,14K,HK HIO
-- [ ] 14K final 940,941 联邦员工税
-- [ ] 14K Gusto 账户关闭 
-
 - [ ] 跟进美国信用卡收款账号 Amy #JIE 
-> 已经注册账号，等待agent设置  
+> 已经注册账号，等待刷卡机到达。打电话给agent设置
 - [ ] 14 Karat Home 银行账号关闭 #财务部   
 > 确认可以关闭，等待把钱转到KH去   
 - [ ] GL coverage on your foreign entities  - HK HIO to europe and JP market #JIE 
 > Sent Application. waiting for answers
-- [ ] Look for FloorFound Payment #JIE  
-> paid 11/21. will arrive later. Should we ship?
+
 - [ ] Insurance Mandatory recommendations -Mark #JIE
+- [ ] 14K 注销-需要把股本分配出去foreign tax withholding
 - [ ] Credit Insurance 
 > waiting for brett quote
-- [ ] JPM Oct borrowing base Certificate #财务部 
+- [ ] NJ nexus issue with state (NJ, NC)
 - [ ] Please reach out to Scott Dale asap #JIE    [[Scott Dale of Dale Law Office]]
 > waiting to pay retainer first
 
@@ -67,31 +68,9 @@ Kerry
 
 
 
----
 
-
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-pre {
-background-color: #f5f5f5;
-}
-</style>
-
-
-
-
-
+- [ ] 办理境外中资企业报到登记的问题
+- [ ] 300 w loan, loan to Karat home and it is secured against related party in the same control group.
 
 
 
