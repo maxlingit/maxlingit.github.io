@@ -1,6 +1,6 @@
 ---
-title: 2023-11-29 周报
-date: 2023-11-29
+title: 2023-12-06 周报
+date: 2023-12-06
 categories:
   - 周报
 tags:
@@ -12,18 +12,10 @@ layout: post
 
 ### 上周完成项目  
 
-- [x] JPM Oct borrowing base Certificate #财务部
-- [x] JPM Credit Card 可疑交易，停卡    #财务部
-- [x] Look for FloorFound Payment #JIE  
 - [x] 3个新公司公司章程+股权证明    #财务部  
 > Urban Vogue Living LLC    
 > EEKO HOME LLC  
-- [x] 加拿大魁北克省QST May  #财务部
-- [x] 加拿大魁北克省QST June  #财务部
-- [x] 年终库存盘点RSM 中国 /美国会议 Scope    #财务部   
-- [x] NJ 11月份库存盘点    #财务部
-- [x] Karat Home 闲置资金账户entitlement   #财务部   
-> 等待entitlement 
+
 - [x] Karat Home 贷款更新跟进问题 #财务部
 
 ---
@@ -32,6 +24,7 @@ layout: post
 - [ ] 14K final 940,941 联邦员工税 #财务部
 - [ ] Mary 工资调整-需要找jie确认   #JIE 
 - [ ] 所有美国公司11月份税务预测 
+- [ ] 14K 公司2023年所有银行交易明细
 - [ ] Eastern Venture 账户关闭    #JIE 
 	- [ ] EV Intuit
 	- [ ] EV  DFW Security
