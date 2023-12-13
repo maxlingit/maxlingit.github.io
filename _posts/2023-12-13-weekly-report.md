@@ -76,26 +76,6 @@ layout: post
 - [ ] 300万中国贷款, loan to Karat home and it is secured against related party in the same control group #财务部 
 - [ ] Z Gallerie Home LLC 银行注册 #财务部 
 
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-pre {
-
-background-color: #f5f5f5;
-}
-</style>
-
-
 
 
 
