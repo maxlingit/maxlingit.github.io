@@ -20,13 +20,7 @@ layout: post
 - [x] Karat Home 2021,2022 Financial
 - [x] 12/28所有仓库盘点
 - [x] ZG公司店铺财务分析报告 #F #财务部 
-- [ ] 14K 注销-需要把剩余资金以分红形式分配出去   
-	- [x] foreign tax withholding 10%
-	- [x] 计算税务留存净收益
-	- [x] SS-4
-	- [x] W-8-BEN-E
-	- [x] Publication 515
-	- [ ] Form 1042S, 1120-Filing
+
 - [x] 关于Z Gallerie收购银行审核需要答案
 - [x] 审计和券商行程安排
 - [x] 更改ZG公司的架构到HK HIO下bylaw & Minute
@@ -39,22 +33,29 @@ layout: post
 - [x] 电商固定资产盘点表-2023年12月
 
 ### 上周完成项目  
-
+- [ ] 14K 注销-需要把剩余资金以分红形式分配出去    #财务部 
+	- [x] foreign tax withholding 10%
+	- [x] 计算税务留存净收益
+	- [x] SS-4
+	- [x] W-8-BEN-E
+	- [x] Publication 515
+	- [ ] Form 1042S, 1120-Filing
+	- [ ] JS Yard Technology EFTPS
 
 ---
 ### 本周项目
 
 - [ ] 14K final 940,941 联邦员工税 #财务部
-- [ ] Hulala Home NC Sale tax Registration  #财务部 
+- [x] Hulala Home NC Sale tax Registration  #财务部 
 - [ ] 公司间交易调整，KH,14K,HK HIO #财务部 
 - [x] 跟进美国信用卡收款账号 Amy #JIE 
 > 已经注册账号，等待刷卡机到达。打电话给agent设置。星期4
 - [ ] 信用卡收款-epayment
 - [ ] 14 Karat Home 银行账号关闭 #财务部   
 > 确认可以关闭，等待把钱转到KH去 ,然后交税
-- [ ] GL coverage on your foreign entities  - HK HIO to europe and JP market #JIE 
+- [x] GL coverage on your foreign entities  - HK HIO to europe and JP market #JIE 
 > Sent Application. waiting for answers
-- [ ] Credit Insurance [[AR Insurance]]     #JIE  #财务部 
+- [x] Credit Insurance [[AR Insurance]]     #JIE  #财务部 
 > waiting for brett quote, **已经发回给中国，等待中国决定**
 - [ ] NJ nexus issue with state (NJ, NC)  #财务部 
 > 等待hannah 那边给计划  
@@ -66,8 +67,8 @@ layout: post
 - [ ] Z Gallerie Home LLC 信用卡 #财务部 #JIE 
 - [ ] 2024年保险更新在GUSTO设置 #财务部 #JIE 
 - [ ] 跟进brent关于公司保险 #JIE 
-- [ ] Nov 2022/Nov 2023 Karat Home Financial #财务部
-- [ ] 2024年财务预测只需要提供income statement #财务部 
+- [x] Nov 2022/Nov 2023 Karat Home Financial #财务部
+- [x] 2024年财务预测只需要提供income statement #财务部 
 - [ ] ZG payroll + healtcare transition  #JIE 
 - [ ] ZG  需要麻烦申请一下strip #JIE 
 - [ ] Last 5 Shipping and Receiving documents in 2023 #财务部 
@@ -75,6 +76,12 @@ layout: post
 - [ ] art of living sales tax #财务部 
 - [ ] hulala home sales tax TX #财务部 
 - [ ] hulala home sales tax GA #财务部 
+- [ ] 1099 Tax Filing For All Companies
+	- [ ] Karat Home
+	- [ ] Hulala Home
+	- [ ] Art of living
+	- [ ] 14 KARAT HOME
+	
 
 
 
