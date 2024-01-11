@@ -11,7 +11,7 @@ img_path: /assets/img/POSMachine/
 ---
 # 一共有2种可以收款方式
 
-## 1. Credit Card Machine
+## 一. Credit Card Machine
 ### To Charge customer:
 1. push green botton
 2. enter 1 for sales
@@ -39,7 +39,7 @@ Pw: 16G36120    SN:7005
 
 
 
-## 2. Online Sales Website
+## 二. Online Sales Website
 
 https://www.convergepay.com/converge-webapp/#!/login
 #### Admin Account: uscpa@karathome.com
