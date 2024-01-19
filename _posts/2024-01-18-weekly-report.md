@@ -1,6 +1,6 @@
 ---
-title: 2024-01-17 周报
-date: 2024-01-17
+title: 2024-01-18 周报
+date: 2024-01-18
 categories:
   - 周报
 tags:
@@ -79,32 +79,11 @@ layout: post
 	- [x] LA warehouse insurance General Liability
 - [ ] Open Bank Account at First Citizen Bank , 70K deposit
 > 	https://locations.firstcitizens.com/tx/dallas/5950-sherry-lane
+> 	已经提交
 - [ ] Microsoft office for Zgallerie.
 - [ ] Stripe account transfer to Zgallerie.
 - [ ] Ecommerce Logistic Payroll Set up
 - [ ] Z Gallerie Home LLC Payroll Set up
-
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-pre {
-
-background-color: #f5f5f5;
-}
-</style>
-
-
-
 
 
 
