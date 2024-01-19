@@ -16,42 +16,40 @@ layout: post
 	- [x] SS-4
 	- [x] W-8-BEN-E
 	- [x] Publication 515
-	- [ ] Form 1042S, 1120-Filing
-
-- [x] DFW仓库审计拍照
-- [x] Hulala Home NC Sale tax Registration  #财务部 
-- [x] GL coverage on your foreign entities  - HK HIO to europe and JP market #JIE 
-- [x] Nov 2022/Nov 2023 Karat Home Financial #财务部
-- [x] 2024年财务预测只需要提供income statement #财务部 
-- [x] 中国文件寄给住美国大使馆 #财务部 
-- [x] 跟进美国信用卡收款账号 Amy #JIE 
-> 已经注册账号，等待刷卡机到达。打电话给agent设置。星期4
-- [x] Z Gallerie Home LLC 银行注册 #财务部 
-- [x] Z Gallerie Home LLC 银行权限设置
-- [x] 审计Last 5 Shipping and Receiving documents in 2023 #财务部 
-- [x] 审计First 5 Shipping and Receiving documents in 2024 #财务部 
-- [x] art of living sales tax #财务部 
-- [x] hulala home sales tax TX #财务部 
-- [x] Pay Houston County Property Tax   
-- [x] Houston Permit payment $608
-
-
-### 完成项目  
-
+	- [ ] Form 1042S, 1120F-Filing
 - [x] hulala home sales tax GA #财务部 
 - [x] hulala home sales tax NC #财务部 
 - [x] 信用卡收款-epayment Online
+- [x] Credit Insurance [[AR Insurance]]     #JIE  #财务部 
+> waiting for brett quote, **已经发回给中国**
+> signed contract
+- [x] 跟进brent关于公司保险登录和使用 #JIE 
+- [x] JPM warehouse contracts to add Bailee Agreements (Newegg, Fedex) for inventory
+- [x]  Call JPM Technical Support at 1-866-872-3321
+- [x] 2024年保险更新在GUSTO设置 #财务部 #JIE 
+- [x] Karat Home GST
+- [x] Karat Home PST
+- [x] Karat Home QST
+- [x] Karat Home BC
+- [x] Karat Home SK
+- [x] Karat Home MB
+- [x] Karat Home Bi-Weekly Payroll + Bouns
+- [x] ZG  需要麻烦申请一下stripe #JIE 
+- [x] Karat Home 申请一个stripe #JIE 
+- [x] Call Coverge API Technical Support at 1-800-377-3962
+- [x] Internet service for Gardena  **Ebony McGee** | 800.594.9842 x3624017
+> To get AT&T Fiber for your business, call us at 855.788.7838.
+> 合约已签，等待安装 Augustin Arellano
+> Office  310.630.1226   |  Cell：(562) 506-3347 
+- [x] Z Gallerie Home LLC  Gusto
+
 ---
 ### 本周项目
 
 - [ ] 14K final 940,941 联邦员工税 #财务部
 - [ ] 公司间交易调整，KH,14K,HK HIO #财务部 
-
 - [ ] 14 Karat Home 银行账号关闭 #财务部   
 > 确认可以关闭，等待把钱转到KH去 ,然后交税
-- [x] Credit Insurance [[AR Insurance]]     #JIE  #财务部 
-> waiting for brett quote, **已经发回给中国**
-> signed contract
 - [ ] NJ nexus issue with state (NJ, NC)  #财务部 
 > 等待hannah 那边给计划  
 - [ ] State nexus issue with state (NJ, NC, CA)  #财务部 
@@ -59,13 +57,11 @@ layout: post
 > waiting to pay retainer first
 > they already cashed the check
 - [ ] Z Gallerie Home LLC 信用卡 #财务部 #JIE 
-- [ ] Z Gallerie Home LLC  Gusto
 - [ ] Z Gallerie Home LLC 8832 entity election
-- [ ] Z Gallerie Home LLC BOI
-- [ ] 2024年保险更新在GUSTO设置 #财务部 #JIE 
-- [ ] 跟进brent关于公司保险 #JIE 
+- [ ] Z Gallerie Home LLC GL 
+- [ ] Z Gallerie Home LLC Workers Comp
 - [ ] ZG payroll + healtcare transition  #JIE 
-- [ ] ZG  需要麻烦申请一下strip #JIE 
+- [x] Ecommerce Logistic Gusto
 - [ ] 1099 Tax Filing For All Companies
 	- [ ] Karat Home
 	- [ ] Hulala Home
@@ -75,8 +71,19 @@ layout: post
 - [ ] DFW Freeport Exemption
 - [ ] Houston BBP Rendition
 - [ ] DFW BBP Rendition
-- [ ] JPM warehouse contracts to add Bailee Agreements (Newegg, Fedex) for inventory
-- [ ] LA warehouse insurance application
+- [ ] LA warehouse insurance application  [[新公司的架构，员工，税务和保险]]
+	- [ ] LA warehouse insurance WorkersComp
+		> update Current Policy  -Dennis
+	- [ ] LA warehouse insurance Vehicle
+	- [ ] LA warehouse insurance Inventory
+	- [x] LA warehouse insurance General Liability
+- [ ] Open Bank Account at First Citizen Bank , 70K deposit
+> 	https://locations.firstcitizens.com/tx/dallas/5950-sherry-lane
+- [ ] Microsoft office for Zgallerie.
+- [ ] Stripe account transfer to Zgallerie.
+- [ ] Ecommerce Logistic Payroll Set up
+- [ ] Z Gallerie Home LLC Payroll Set up
+
 
 
 
