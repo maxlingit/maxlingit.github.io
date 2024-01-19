@@ -84,6 +84,7 @@ layout: post
 - [ ] Stripe account transfer to Zgallerie.
 - [ ] Ecommerce Logistic Payroll Set up
 - [ ] Z Gallerie Home LLC Payroll Set up
+- [ ] Pape Equipment lease Application
 
 
 
