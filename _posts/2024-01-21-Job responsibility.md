@@ -49,6 +49,7 @@ date: 2024-01-21
 - State and local sales tax implementation according to the state economic nexus rule. Register and report with all the actively state to ensure compliance.
 - transition of merchant accounts and coordinate with operation teams and accounting teams to learn and train for the new payment reconciliation and ensure accuracy of AR and deposit, return and refund.
 - New AP Payments and inventoriable cost recording. Oversee the new vendor information gather correct vendor information to make payments according to vendor's term. Identity costs and its nature make sure it is properly recorded as inventory or expense. And set up new prepaid and accrual. 
+- Financial Budget and margin Analysis
 
 # 中文
 
