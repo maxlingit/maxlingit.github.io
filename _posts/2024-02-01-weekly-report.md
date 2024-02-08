@@ -67,7 +67,6 @@ layout: post
 	- [ ] Sobia
 	
 - [ ] Z Gallerie Home LLC 8832 entity election
-
 - [ ] Z Gallerie Home LLC Workers Comp
 - [ ] ZG payroll + healtcare transition  #JIE 
 - [ ] Houston Freeport Exemption
@@ -85,8 +84,7 @@ layout: post
 > 	https://locations.firstcitizens.com/tx/dallas/5950-sherry-lane
 > 	已经提交
 
-- [ ] **Payment Accounts -ApplePay**
-
+- [x] **Payment Accounts -ApplePay**
 - [ ] Ecommerce Logistic  CA state Employer ID
 > 已经提交
 - [ ] Z Gallerie Home LLC CA state Employer ID
@@ -99,7 +97,7 @@ layout: post
 - [ ] Avalara Tax
 - [ ] Outsource State Sales Tax
 - [ ] Ecommerce Transaction with Z Gallerie (rent, payroll)
-- [ ] Workers Comp Renewal - provide information to Mark
+- [ ] Workers Comp 4/1 Renewal - provide information to Mark
 	- [ ] NJ
 	- [ ] DFW
 	- [ ] Hou
@@ -126,6 +124,11 @@ layout: post
 - [ ] Steamline Tax excel for Eric - Avalara
 - [ ] Paypal & payflow access for Customer Services
 - [ ] Credit applicatio for Augie
+- [ ] China audit fixed asset list Wangjing
+
+
+
+
 
 
 
