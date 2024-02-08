@@ -104,24 +104,6 @@ layout: post
 - [ ] Z Gallerie New Account **_Entitlements
 - [ ] Warren Douglas Advertising balance due
 
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-pre {
-
-background-color: #f5f5f5;
-}
-</style>
 
 
 
