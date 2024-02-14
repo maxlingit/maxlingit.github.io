@@ -82,7 +82,6 @@ layout: post
 	- [ ] LA warehouse insurance Vehicle
 	- [ ] LA warehouse insurance Inventory
 	- [x] LA warehouse insurance General Liability
-
 - [ ] Z Gallerie Home LLC FL state Employer ID
 - [ ] Karat Home Deposit machine
 - [ ] Go Over 2023 Financial with Sobia to SKU level, Product Margin
