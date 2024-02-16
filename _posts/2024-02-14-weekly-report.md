@@ -51,7 +51,9 @@ layout: post
 - [x] CA Resales Certificate
 - [x] Indiana Employer Letter response
 - [x] SVB Merchant Application Forms
+### 完成项目  
 
+- [x] Generated Inquiry Alert 
 ---
 ### 本周项目
 
@@ -87,7 +89,7 @@ layout: post
 - [ ] Karat Home Deposit machine
 - [ ] Go Over 2023 Financial with Sobia to SKU level, Product Margin
 - [ ] Avalara Tax 68K per year
-- [ ] Outsource State Sales Tax
+- [x] Outsource State Sales Tax
 - [ ] Ecommerce Transaction with Z Gallerie (rent, payroll)
 - [ ] Workers Comp 4/1 Renewal - provide information to Mark
 	- [ ] NJ
@@ -102,32 +104,13 @@ layout: post
 - [ ] EFTPS for Ecommerece
 - [ ]  Z Gallerie CA Company Registration
 - [ ] Ecommerece Logistic CA Company Registration
-- [ ] Warren Douglas Advertising balance due
+- [x] Warren Douglas Advertising balance due  
+> Jie say dont pay
 - [ ] JPM can't close due to negative balance
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] Stripe PCI compliance
-- [ ] Generated Inquiry Alert 
-- [ ] Ernest Packing Expedite payment 
-<style>
-body {
-    margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
-    color: black;
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
-    line-height: 140%;
-    color: #333; 
-   
-}
-pre {
-
-background-color: #f5f5f5;
-}
-</style>
-
-
+- [x] Ernest Packing Expedite payment 
+- [ ] Adobe Business Account For everyone
 
 
 
