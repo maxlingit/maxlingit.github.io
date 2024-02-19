@@ -7,7 +7,6 @@ tags:
   - 财务部
   - JIE
 date: 2024-01-02
-img_path: /assets/img/POSMachine/
 ---
 # 一共有2种可以收款方式
 

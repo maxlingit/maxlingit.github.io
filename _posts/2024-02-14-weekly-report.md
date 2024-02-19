@@ -54,6 +54,12 @@ layout: post
 ### 完成项目  
 
 - [x] Generated Inquiry Alert 
+- [x] Ernest Packing Expedite payment 
+- [x] Adobe Business Account For everyone
+- [x] Tona Benefit set up
+- [x] Warren Douglas Advertising balance due  
+> Jie say dont pay
+- [x] JPM can't close due to negative balance
 ---
 ### 本周项目
 
@@ -104,14 +110,11 @@ layout: post
 - [ ] EFTPS for Ecommerece
 - [ ]  Z Gallerie CA Company Registration
 - [ ] Ecommerece Logistic CA Company Registration
-- [x] Warren Douglas Advertising balance due  
-> Jie say dont pay
-- [x] JPM can't close due to negative balance
+
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] Stripe PCI compliance
-- [x] Ernest Packing Expedite payment 
-- [ ] Adobe Business Account For everyone
-- [ ] Tona Benefit set up
+- [ ] HR and 401K Plan Meeting[[HR Meeting]]
+
 
 
 

@@ -7,7 +7,6 @@ tags:
   - 财务部
   - JIE
 date: 2024-01-21
-img_path: /assets/img/POSMachine/
 ---
 ## 应收账款报告的规定
 
