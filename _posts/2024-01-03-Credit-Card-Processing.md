@@ -64,10 +64,13 @@ https://www.convergepay.com/converge-webapp/#!/login
 
 1. select "new payment"
 ![[Pasted image 20231214155019.png]](Pasted image 20231214155019.png)
+
 2. enter amount, payment type and hit start transaction
 ![[Pasted image 20231214155134.png]](Pasted image 20231214155134.png)
-2. enter customer information and credit card info
+
+2. enter customer information and credit card info.
 ![[Pasted image 20240103121135.png]](Pasted image 20240103121135.png)
+
 3. hit pay
 ![[Pasted image 20231214155257.png]](Pasted image 20231214155257.png)
 ### Transaction status:
