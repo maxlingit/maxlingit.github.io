@@ -60,6 +60,12 @@ layout: post
 - [x] Warren Douglas Advertising balance due  
 > Jie say dont pay
 - [x] JPM can't close due to negative balance
+- [x] Z Gallerie Home LLC FL state Employer ID
+- [x] Steamline State Sales Tax
+- [x] Workers Comp Z Gallerie
+- [x] EFTPS for Ecommerece
+- [x] Stripe PCI compliance   > submited
+- [x] HR and 401K Plan Meeting[[HR Meeting]]
 ---
 ### 本周项目
 
@@ -91,11 +97,10 @@ layout: post
 	- [ ] LA warehouse insurance Vehicle
 	- [ ] LA warehouse insurance Inventory
 	- [x] LA warehouse insurance General Liability
-- [ ] Z Gallerie Home LLC FL state Employer ID
+
 - [ ] Karat Home Deposit machine
 - [ ] Go Over 2023 Financial with Sobia to SKU level, Product Margin
 - [ ] Avalara Tax 68K per year
-- [x] Outsource State Sales Tax
 - [ ] Ecommerce Transaction with Z Gallerie (rent, payroll)
 - [ ] Workers Comp 4/1 Renewal - provide information to Mark
 	- [ ] NJ
@@ -104,16 +109,31 @@ layout: post
 	- [x] CA
 	- [x] ZG
 - [ ] sovos tax software 
-- [ ] Karat Home Illinois Sales tax Registration
-- [ ] Karat Home Florida Sales tax Registration
-- [ ] EFTPS for Z Gallerie
-- [ ] EFTPS for Ecommerece
+- [ ] Hulala Home Illinois Sales tax Registration> submitted
+- [ ] Hulala Home Florida Sales tax Registration  > submitted
+- [ ] EFTPS for Z Gallerie  > submitted
 - [ ]  Z Gallerie CA Company Registration
 - [ ] Ecommerece Logistic CA Company Registration
-
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
-- [ ] Stripe PCI compliance
-- [ ] HR and 401K Plan Meeting[[HR Meeting]]
+- [ ] PCI scanning- jessica_perez@halosecurity.com
+- [ ] ZG FL Sales & Use Tax Certificate Number >     78-8019360592-4
+- [ ] Graintie Services Transfer
+- [ ] Eastern Venture LLC Tax
+- [ ] F&H capital Tax
+- [ ] Hyt investment Tax
+- [ ] 14 Karat Home
+- [ ] Karart Home
+- [ ] Art of Living
+- [ ] Hulala Home 
+- [ ] Home Nest
+- [ ] CAYA HOME INC
+- [ ] Soulful House Inc
+- [ ] BEIXIN FURNITURE INC
+- [ ] ECOMMERCE LOGISTICS INC
+- [ ] TINA HOME DEC LLC
+- [ ] EEKO HOME LLC
+- [ ] URBAN VOGUE LIVING LLC
+
 
 
 
