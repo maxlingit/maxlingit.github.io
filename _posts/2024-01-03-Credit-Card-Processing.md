@@ -6,7 +6,7 @@ categories:
 tags:
   - 财务部
   - JIE
-date: 2024-01-02
+date: 2024-01-03
 img_path: /assets/img/POSMachine/
 ---
 # 一共有2种可以收款方式
@@ -66,7 +66,7 @@ https://www.convergepay.com/converge-webapp/#!/login
 ![[POS_newpayment.png]](POS_newpayment.png)
 
 2. enter amount, payment type and hit start transaction
-![[Pasted image 20231214155134.png]](Pasted image 20231214155134.png)
+![[starttransaction.png]](starttransaction.png) 
 
 2. enter customer information and credit card info.
 ![[Pasted image 20240103121135.png]](Pasted image 20240103121135.png)
