@@ -63,7 +63,7 @@ https://www.convergepay.com/converge-webapp/#!/login
 
 
 1. select "new payment"
-![[Pasted image 20231214155019.png]](Pasted image 20231214155019.png)
+![[POS_newpayment.png]](POS_newpayment.png)
 
 2. enter amount, payment type and hit start transaction
 ![[Pasted image 20231214155134.png]](Pasted image 20231214155134.png)
