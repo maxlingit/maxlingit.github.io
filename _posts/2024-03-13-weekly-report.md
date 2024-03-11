@@ -111,6 +111,7 @@ layout: post
 - [ ] Jordan Credit Card -ZG
 - [ ] 14 Karat Home 1042S
 - [ ] Payment for JX Financial Services return fee
+- [ ] PCI compliance Rejected ,need SAO D
 - [ ] ZG Home Sales Tax Registration
 	- [ ] AL
 	- [ ] AZ

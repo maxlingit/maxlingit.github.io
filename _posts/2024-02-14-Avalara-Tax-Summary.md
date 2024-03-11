@@ -2,7 +2,7 @@
 layout: post
 title: Avalara Tax Summary
 categories:
-  - 步骤
+  - Report
 tags:
   - 财务部
   - JIE
