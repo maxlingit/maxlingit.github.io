@@ -1,6 +1,6 @@
 ---
-title: 2024-03-20周报
-date: 2024-03-20
+title: 2024-03-27周报
+date: 2024-03-27
 categories:
   - 周报
 tags:
@@ -11,33 +11,30 @@ layout: post
 ---
 
 ### 完成项目  
-
-- [x] Sarah Knee Final paycheck 3-19
-- [x] Hannelore Branagh Reimbursement
-- [x] JPM credit card one card information provide
-- [x] ZG healtcare transition  #JIE 
-- [x] ECOM  healtcare transition 
-- [x] Graintie Services Transfer keep 2 310 phone account? > wait for monday
-- [x] Jordan Credit Card -ZG no need
-- [x] innovation Logistix Invoices 
-- [x] funding power of attorney
-- [x] JPM Financial Reporting Request  1/31/24
-- [x] JPM Financial Reporting Request  2/29/24
-- [x]  2024.01AP-Karat-ZG voiding the check and re send the payment via E-check
-- [x] Z Gallerie Home LLC 信用卡 #财务部 #JIE 
-	- [x] Tim
-	- [x] Augi
-	- [x] Sobia
-- [x] ECOMMERCE LOGISTICS INC Texas > Waiting to E-file
-- [x] TINA HOME DEC LLC Texas >Waiting to E-file
-- [x] EEKO HOME LLC Texas > To Mail
-- [x] URBAN VOGUE LIVING LLC Texas > To Mail
-- [x] Home Nest Texas > Waiting to E-file
-- [x] Z Gallerie home LLC  Texas > Waiting to E-file
-- [x] ZG Credit Card Login
-- [x] COI for CA Gardena Warehouse Landlord Kenneth.Bui@jll.com
-
-完成项目  
+- [x] Soulful House Inc Federal
+- [x] Soulful House Inc Texas
+- [x] james health Insurance
+- [x] Karat Home credit Card reactivation
+- [x] Z Gallerie CA Company Registration  > submitted
+- [x] Ecommerece Logistic CA Company Registration > submitted
+- [x] Hulala Home Federal 
+- [x] Art of Living Federal
+- [x] Z Gallereie TX Sales tax Return  FEB
+- [x] Tona Credit Card - Karat Home
+- [x] 14 Karat Home 1042S
+- [x] Microsoft Ad account verification-we need to proof we owner the domain >submitted
+- [x] Morgan Johnson Change to KH
+- [x] 信用卡额度20000
+- [x] Harford Insurance Change payment method
+- [x] Karat Home Payroll
+- [x] ECom Payroll -meal penalty
+- [x] ZG payroll
+- [x] Karat Home Heath Insurance Lenadro -ADD TO gusto next payroll
+- [x]  Karat Home Heath Insurance Matthew Morris
+- [x] Amazon COI  -HONGKONG XYT HOME FASHION LIMITED
+- [x] DFW Credit card limit +2000
+- [x] Homethreads.com LLC
+### 完成项目  
 
 
 
@@ -58,46 +55,43 @@ layout: post
 - [ ] DFW BBP Rendition
 - [ ] Karat Home Deposit machine
 - [ ] Avalara Tax Registration SST
-- [ ] Z Gallerie CA Company Registration  > submitted
-- [ ] Ecommerece Logistic CA Company Registration > submitted
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] PCI scanning- jessica_perez@halosecurity.com
 - [ ] PCI scanning- target
 - [ ] F&H capital Tax
 - [ ] Hyt investment Tax
 - [ ] Karart Home Federal 
-- [ ] Karart Home Texas Combined
-- [ ] Art of Living Federal
+- [ ] Karart Home Texas 
 - [ ] Art of Living Texas
-- [ ] Hulala Home Federal 
 - [ ] Hulala Home Texas
-- [ ] Soulful House Inc Federal
-- [ ] Soulful House Inc Texas
 - [ ] CSC Customer service Dashboard
 - [ ] CSC customer Service instruction for Link between accounts
 - [ ] Takeover CSC paypal Contract
 - [ ] Unbounce payment CC
-- [ ] Z Gallereie TX Sales tax Return  FEB
-- [x] Microsoft Ad account verification-we need to proof we owner the domain >submitted
+- [ ] COI LIST FOR WC
 - [ ] ZG Home Curative Health Insurance
-- [ ] South California Edison Setup
-- [ ] Tona Credit Card - Karat Home
-- [ ] 14 Karat Home 1042S
+- [ ] SIMPLE IRA Plan Sponsor Guide -ECOM
+- [ ] SIMPLE IRA Plan Sponsor Guide -ZG
+- [ ] form 5305-simple  -ecom
+- [ ] form 5305-simple - ZG
+- [x] South California Edison Setup
 - [ ] Workers Comp 24-25 Renewal 80K
-- [ ] Raymond Reach Forklift Karen
 - [ ] PCI compliance Rejected ,need SAO D
 - [ ] ZG stripe , paypal, applepay transaction to accounting
-- [ ] KH loan Balance to 5M -email sent
+- [x] KH loan Balance to 5M -email sent
 - [ ] BOI report for all the companies
 - [ ] The prerequisites for the Returns set up is Adding the FPOA and relevant Tax Return forms
-- [ ] Morgan Johnson Change to KH
-- [x] 信用卡额度20000
-- [x] Harford Insurance Change payment method
+- [ ]  Karat Home Heath Insurance Mark Guo- activate after April payroll
+- [x] KH,ZG, Hulala Home Bill.com policy
+- [x] ECOM BILL.COM POLICY SETUP
+- [x] sketch.com set up 
+- [ ] Employee Health Insurance verify cost and set up gusto
+	- [ ] COI for Lows worker's comp 
 - [ ] ZG Home Sales Tax Registration
 	- [x] AL
 	- [x] AZ
 	- [ ] CA
-	- [ ] CO
+	- [x] CO
 	- [x] CT
 	- [ ] DC
 	- [x] FL - need to see the letter on the back
