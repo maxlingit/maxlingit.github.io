@@ -11,36 +11,26 @@ layout: post
 ---
 
 ### 完成项目  
-- [x] Soulful House Inc Federal
-- [x] Soulful House Inc Texas
-- [x] james health Insurance
-- [x] Karat Home credit Card reactivation
-- [x] Z Gallerie CA Company Registration  > submitted
-- [x] Ecommerece Logistic CA Company Registration > submitted
-- [x] Hulala Home Federal 
-- [x] Art of Living Federal
-- [x] Z Gallereie TX Sales tax Return  FEB
-- [x] Tona Credit Card - Karat Home
-- [x] 14 Karat Home 1042S
-- [x] Microsoft Ad account verification-we need to proof we owner the domain >submitted
-- [x] Morgan Johnson Change to KH
-- [x] 信用卡额度20000
-- [x] Harford Insurance Change payment method
-- [x] Karat Home Payroll
-- [x] ECom Payroll -meal penalty
-- [x] ZG payroll
-- [x] Karat Home Heath Insurance Lenadro -ADD TO gusto next payroll
-- [x]  Karat Home Heath Insurance Matthew Morris
-- [x] Amazon COI  -HONGKONG XYT HOME FASHION LIMITED
-- [x] DFW Credit card limit +2000
-- [x] Homethreads.com LLC
-### 完成项目  
-
-
+- [x] Avalara Tax Registration SST
+- [x] COI LIST FOR WC
+- [x] ZG Home Curative Health Insurance
+- [x] SIMPLE IRA Plan Sponsor Guide -ECOM
+- [x] SIMPLE IRA Plan Sponsor Guide -ZG
+- [x] form 5305-simple  -ecom
+- [x] form 5305-simple - ZG
+- [x] South California Edison Setup
+- [x] Workers Comp 24-25 Renewal 80K
+- [x] KH,ZG, Hulala Home Bill.com policy
+- [x] ECOM BILL.COM POLICY SETUP
+- [x] sketch.com set up 
+- [x] KH loan Balance to 5M -email sent
+- [x] Employee Health Insurance verify cost and set up gusto
+- [x] COI for Lows worker's comp 
+- [x] Tina Home JP Morgan
+- [x] Houston Forklift payment and amortization
 
 ---
 ### 本周项目
-
 
 - [ ] 公司间交易调整，KH,14K,HK HIO #财务部 
 > 确认可以关闭，等待把钱转到KH去 ,然后交税
@@ -54,7 +44,6 @@ layout: post
 - [ ] Houston BBP Rendition
 - [ ] DFW BBP Rendition
 - [ ] Karat Home Deposit machine
-- [ ] Avalara Tax Registration SST
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] PCI scanning- jessica_perez@halosecurity.com
 - [ ] PCI scanning- target
@@ -68,32 +57,22 @@ layout: post
 - [ ] CSC customer Service instruction for Link between accounts
 - [ ] Takeover CSC paypal Contract
 - [ ] Unbounce payment CC
-- [ ] COI LIST FOR WC
-- [ ] ZG Home Curative Health Insurance
-- [ ] SIMPLE IRA Plan Sponsor Guide -ECOM
-- [ ] SIMPLE IRA Plan Sponsor Guide -ZG
-- [ ] form 5305-simple  -ecom
-- [ ] form 5305-simple - ZG
-- [x] South California Edison Setup
-- [ ] Workers Comp 24-25 Renewal 80K
+- [ ] Harford WC Audit
 - [ ] PCI compliance Rejected ,need SAO D
 - [ ] ZG stripe , paypal, applepay transaction to accounting
-- [x] KH loan Balance to 5M -email sent
 - [ ] BOI report for all the companies
 - [ ] The prerequisites for the Returns set up is Adding the FPOA and relevant Tax Return forms
 - [ ]  Karat Home Heath Insurance Mark Guo- activate after April payroll
-- [x] KH,ZG, Hulala Home Bill.com policy
-- [x] ECOM BILL.COM POLICY SETUP
-- [x] sketch.com set up 
-- [ ] Employee Health Insurance verify cost and set up gusto
-	- [ ] COI for Lows worker's comp 
+- [ ] Harford worker comp insurance account summary
+- [ ] current property policy to mark
+- [ ]  Adobe Creative Suite
 - [ ] ZG Home Sales Tax Registration
 	- [x] AL
 	- [x] AZ
-	- [ ] CA
+	- [x] CA
 	- [x] CO
 	- [x] CT
-	- [ ] DC
+	- [x] DC
 	- [x] FL - need to see the letter on the back
 	- [ ] ID
 	- [x] LA
@@ -103,17 +82,11 @@ layout: post
 	- [x] IL
 	- [x] MS
 	- [x] NM
-	- [ ] NY
-	- [ ] PA
-	- [ ] SC
+	- [x] NY
+	- [x] PA
+	- [x] SC
 	- [x] TX already register
 	- [x] VA
-
-
-
-
-
-
 
 
 
