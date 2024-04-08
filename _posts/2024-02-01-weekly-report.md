@@ -17,7 +17,7 @@ layout: post
 	- [x] W-8-BEN-E
 	- [x] Publication 515
 	- [ ] Form 1042S, 1120F-Filing
-- [x] 整理MAX 所有工作 [[2024-01-21-Job responsibility]]
+- [x] 整理MAX 所有工作 [[2024-01-21-Job-responsibility]]
 - [x] Ecommerce Logistic Gusto
 - [x] Pape Equipment lease Application
 - [x] Account Payable Resume
