@@ -78,5 +78,7 @@ Email Title:  {Your name}-{VendorName}-{Expense Description} -{ Amount}
 
 For example:    max-gswater-waterbill-$79.77
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53634686740/in/dateposted-public/" title="email"><img src="https://live.staticflickr.com/65535/53634686740_a0e5316c33.jpg" width="500" height="127" alt="email"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53634686740/in/dateposted-public/" title="email"><img src="https://live.staticflickr.com/65535/53634686740_a0e5316c33.jpg" width="500" height="127" alt="email"/></a>
+
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
