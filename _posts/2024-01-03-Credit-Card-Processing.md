@@ -13,7 +13,7 @@ img_path: /assets/img/POSMachine/
 
 ## 一. Credit Card Machine
 ### To Charge customer:
-1. push green botton
+1. push green button
 2. enter 1 for sales
 3. on the insert screen we can enter credit card number
 4. accept
@@ -24,7 +24,7 @@ img_path: /assets/img/POSMachine/
 
 #### all find the transaction and hit confirm
 
-## 4. return
+### 4. return (when transactions been settled)
 
 ### 6- settlement.   8 pm auto settlement.
 
