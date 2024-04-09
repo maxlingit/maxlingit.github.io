@@ -62,10 +62,14 @@ layout: post
 - [ ] ZG stripe , paypal, applepay transaction to accounting
 - [ ] BOI report for all the companies
 - [ ] The prerequisites for the Returns set up is Adding the FPOA and relevant Tax Return forms
-- [ ]  Karat Home Heath Insurance Mark Guo- activate after April payroll
+- [ ] Karat Home Heath Insurance Mark Guo- activate after April payroll
 - [ ] Harford worker comp insurance account summary
 - [ ] current property policy to mark
-- [ ]  Adobe Creative Suite
+- [ ] Ecommerce payroll
+- [x] KH payroll
+- [x] ZG payroll
+- [x] Tona credi card limit
+- [x]  Adobe Creative Suite
 		Mark Hoehner
 		Ana Arambarry
 		Lauren Romm
