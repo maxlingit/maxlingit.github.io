@@ -42,7 +42,7 @@ Invoices should be submitted in form of PDF , JPEG, PNG, CSV or EXCEL to the fol
 After the invoices received in the Inbox, these will be processed by Max or future AP personal
 ## Vendor Documentation
 
-All the vendor are required to provide W-9 tax formation. Please also email it to the above email addresses
+All the **new vendors** are required to provide W-9 tax formation. Please also email it to the above email addresses
 
 ### US vendor
 
@@ -67,7 +67,7 @@ After the vendor document received in the Inbox, these will be processed by Max 
 ## Vendor Payment Method
 
 We can pay vendor in form of Checks, ACH debit, Wire Transfer or On vendor website.
-Please send the vendor payment method document to above email
+For the **first time** vendor setup please send the vendor payment method document to above email
 
 ### Checks
 
@@ -123,13 +123,13 @@ the follow person are assigned to the follow companies as **Operation Approver**
 - Tonatiuh Chavez
 - Patrick Lowes
 - Jie Melchiors
-- 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53658751391/in/dateposted-public/" title="marketing"><img src="https://live.staticflickr.com/65535/53658751391_945cb56712.jpg" width="500" height="436" alt="marketing"/></a>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53658751391/in/dateposted-public/" title="marketing"><img src="https://live.staticflickr.com/65535/53658751391_945cb56712.jpg" width="635" height="436" alt="marketing"/></a>
 ###### 	Supply Chain Group
 - Augustin Arellano
 - Ray Wang
 
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53657889742/in/dateposted-public/" title="supply chain"><img src="https://live.staticflickr.com/65535/53657889742_5ccc7f4957.jpg" width="635" height="391" alt="supply chain"/></a>
 ##### Hulala home Inc
 
 -  Jie Melchiors
@@ -139,7 +139,7 @@ the follow person are assigned to the follow companies as **Operation Approver**
 - Jie Melchiors
 - Augustin Arellano
 - Ray Wang
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53657889742/in/dateposted-public/" title="supply chain"><img src="https://live.staticflickr.com/65535/53657889742_5ccc7f4957.jpg" width="635" height="391" alt="supply chain"/></a>
+
 ## Accounting Department approval
 
 Accounting Department will review the invoice for accuracy and the Categories are map to the correct account. Book the expense to appropriate account in ERP System
@@ -162,12 +162,14 @@ Treasury Department will review the invoice for payment term and cashflow plan t
 
 - wang yan
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53657889752/in/dateposted-public/" title="treasury"><img src="https://live.staticflickr.com/65535/53657889752_a8d205e556.jpg" width="600" height="425" alt="treasury"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53657889752/in/dateposted-public/" title="treasury"><img src="https://live.staticflickr.com/65535/53657889752_a8d205e556.jpg" width="635" height="425" alt="treasury"/></a>
 ## Money disbursement 
 
 - Jing Yang will be responsible for the final payment 
 - and monitor the disbursement process and answer vendor questions
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53659110944/in/dateposted-public/" title="payment"><img src="https://live.staticflickr.com/65535/53659110944_ee460137f7.jpg" width="600" height="362" alt="payment"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53659110944/in/dateposted-public/" title="payment"><img src="https://live.staticflickr.com/65535/53659110944_ee460137f7.jpg" width="600" height="362" alt="payment"/></a>
+
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
