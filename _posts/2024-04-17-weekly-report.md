@@ -1,5 +1,5 @@
 ---
-title: 2024-4-10周报
+title: 2024-4-17周报
 date: 2024-04-10
 categories:
   - 周报
@@ -73,9 +73,9 @@ layout: post
 - [ ] Houston Freeport Exemption
 - [ ] DFW Freeport Exemption
 - [ ] Houston BBP Rendition
-- [x] Houston BBP Rendition EXTENSION REQUEST
+- [ ] Houston BBP Rendition EXTENSION REQUEST
 - [ ] DFW BBP Rendition
-- [x] DFW BBP Rendition EXTENSION REQUEST
+- [ ] DFW BBP Rendition EXTENSION REQUEST
 - [ ] Karat Home Deposit machine
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] PCI scanning- jessica_perez@halosecurity.com
@@ -95,11 +95,12 @@ layout: post
 	- [x] Karat Home BC
 	- [x] Karat Home MB
 - [ ] PCI compliance Rejected ,need SAO D
-- [x] ZG stripe , paypal, applepay transaction to accounting
+- [ ] ZG stripe , paypal, applepay transaction to accounting
 - [ ] BOI report for all the companies
 - [ ] Google Ads invoice payment
 - [ ] Z Gallerie Home LLC check order
-- [ ] insurance account summary
+ insurance account summary
+
 - [ ] 31-Mar-2024 ZG Home Q1 California
 
 
