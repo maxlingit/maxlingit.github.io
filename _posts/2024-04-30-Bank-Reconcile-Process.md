@@ -2,8 +2,8 @@
 layout: post
 categories:
   - 步骤
-title: Vendor Invoices Payment Process
-date: 2024-04-16
+title: 如何准备银行核对表
+date: 2024-04-30
 tags:
   - 财务部
   - JIE

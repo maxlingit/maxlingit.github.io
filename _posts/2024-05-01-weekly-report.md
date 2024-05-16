@@ -1,6 +1,6 @@
 ---
-title: 2024-4-17周报
-date: 2024-04-10
+title: 2024-5-1周报
+date: 2024-05-01
 categories:
   - 周报
 tags:
@@ -11,27 +11,18 @@ layout: post
 ---
 
 ### 完成项目  
-- [x]  Karat Home Canada Tax
-	- [x] Karat Home GST
-	- [x] Karat Home QST
-	- [x] Karat Home BC
-	- [x] Karat Home MB
-- [x] HR-Process-with-HeathCare
-- [x] Invoices-Payment-Process
-- [x] Harford WC Audit
-- [x] CSC customer Service instruction for Link between accounts
-- [x] ZG payroll
-- [x] Ecom Payroll
-- [x] Karat Home Payroll
-- [x] CA unemployment claims
-- [x] KH Admin access to Marica
-- [x] CT tax Return issue
-- [x] DFW BBP Rendition EXTENSION REQUEST
-- [x] Houston BBP Rendition EXTENSION REQUEST
-- [x] ZG stripe , paypal, applepay transaction to accounting
-- [x] Google Ads invoice payment
-- [x] 31-Mar-2024 ZG Home Q1 California
-- [x] Morgan Sketch account - transfer Mark's account
+
+
+- [x] AWS VPN
+- [x] https://rockreports.granitenet.com/reports/
+- [x] Houston Freeport Exemption
+- [x] DFW Freeport Exemption
+- [x] Houston BBP Rendition
+- [x] DFW BBP Rendition
+- [x] CSC Customer service Dashboard
+- [x] Fix China Credit Card
+- [x] Mexico Amazon Credit Card
+- [x] Hulala Home Check Deposit
 ---
 ### 本周项目
 
@@ -41,10 +32,6 @@ layout: post
 - [ ] Please reach out to Scott Dale asap #JIE    [[Scott Dale of Dale Law Office]]    
 > waiting to pay retainer first
 > they already cashed the check
-- [ ] Houston Freeport Exemption
-- [ ] DFW Freeport Exemption
-- [ ] Houston BBP Rendition
-- [ ] DFW BBP Rendition
 - [ ] Karat Home Deposit machine Houston and DFW
 - [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] PCI scanning- jessica_perez@halosecurity.com
@@ -53,7 +40,6 @@ layout: post
 - [ ] Hyt investment Tax
 - [ ] Karart Home Federal 
 - [ ] Karart Home Texas 
-- [ ] CSC Customer service Dashboard
 - [ ] Takeover CSC paypal Contract
 - [ ] Unbounce payment CC
 - [ ] PCI compliance Rejected ,need SAO D
@@ -62,6 +48,18 @@ layout: post
 - [ ] insurance account summary
 - [ ] March 2024 - May 2024 ZG Home Q1 NY
 - [ ] Z Gallerie with the Navigator portal.
+- [ ] Karat Home ECheck with Amy 
+- [x] Karat Home Inventory Report
+- [x] Karat Home Account Receivables Aging
+- [x] Karat Home Borrowing Base Certificate
+- [x] Karat Home Q1 Financial Report
+- [ ] Karat Home Reviewed Financial Statement
+- [ ] Check Tim Oak's Credit Card Limit in May
+- [x] Home Thread Notice of Submitting Claim
+- [ ] KH Bank Reconciliation
+- [ ] bigCommerce Payment
+- [ ] KH Credit Card Reconciliation
+- [x] aws may payment
 
 
 

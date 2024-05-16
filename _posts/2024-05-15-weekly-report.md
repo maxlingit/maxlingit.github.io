@@ -1,6 +1,6 @@
 ---
-title: 2024-4-17周报
-date: 2024-04-10
+title: 2024-5-15周报
+date: 2024-05-15
 categories:
   - 周报
 tags:
@@ -11,27 +11,28 @@ layout: post
 ---
 
 ### 完成项目  
+- [x] AVALARA MO
+- [x] AVALARA MS
+- [x] AVALARA CO
+- [x] 所有税务报表给王静
+- [x] fix hud group bill.com invoices
+- [x] Calculate sales tax based on COGS
 - [x]  Karat Home Canada Tax
 	- [x] Karat Home GST
 	- [x] Karat Home QST
 	- [x] Karat Home BC
-	- [x] Karat Home MB
-- [x] HR-Process-with-HeathCare
-- [x] Invoices-Payment-Process
-- [x] Harford WC Audit
-- [x] CSC customer Service instruction for Link between accounts
-- [x] ZG payroll
-- [x] Ecom Payroll
-- [x] Karat Home Payroll
-- [x] CA unemployment claims
-- [x] KH Admin access to Marica
-- [x] CT tax Return issue
-- [x] DFW BBP Rendition EXTENSION REQUEST
-- [x] Houston BBP Rendition EXTENSION REQUEST
-- [x] ZG stripe , paypal, applepay transaction to accounting
-- [x] Google Ads invoice payment
-- [x] 31-Mar-2024 ZG Home Q1 California
-- [x] Morgan Sketch account - transfer Mark's account
+- [x] PCI scanning- target
+- [x] Z Gallerie Home LLC check order
+- [x] Art of Living Sales tax
+- [x] Bill.com for Marcia -ZG
+- [x] Bill.com for Marcia -Ecom
+- [x] Texas Franchise tax extension -KH
+- [x] Texas Franchise tax
+- [x] SOARINGWING FURNITURE INC TFT
+- [x] LAYNSINO FURNITURE INC TFT
+- [x] Creation Furniture TFT
+- [x] EEKO Home TFT
+- [x] Urban Vague TFT
 ---
 ### 本周项目
 
@@ -41,27 +42,31 @@ layout: post
 - [ ] Please reach out to Scott Dale asap #JIE    [[Scott Dale of Dale Law Office]]    
 > waiting to pay retainer first
 > they already cashed the check
-- [ ] Houston Freeport Exemption
-- [ ] DFW Freeport Exemption
-- [ ] Houston BBP Rendition
-- [ ] DFW BBP Rendition
 - [ ] Karat Home Deposit machine Houston and DFW
-- [ ] Set up Meta Business Manager and payment with jordan's team- we can't transfer the ownership 
 - [ ] PCI scanning- jessica_perez@halosecurity.com
-- [ ] PCI scanning- target
 - [ ] F&H capital Tax
 - [ ] Hyt investment Tax
 - [ ] Karart Home Federal 
 - [ ] Karart Home Texas 
-- [ ] CSC Customer service Dashboard
 - [ ] Takeover CSC paypal Contract
-- [ ] Unbounce payment CC
 - [ ] PCI compliance Rejected ,need SAO D
 - [ ] BOI report for all the companies
-- [ ] Z Gallerie Home LLC check order
 - [ ] insurance account summary
 - [ ] March 2024 - May 2024 ZG Home Q1 NY
-- [ ] Z Gallerie with the Navigator portal.
+- [ ] Z Gallerie with the GIS Navigator portal.
+- [ ] Karat Home ECheck with Amy 
+- [ ] Karat Home Reviewed Financial Statement
+- [ ] KH Bank Reconciliation
+- [ ] bigCommerce Payment
+- [ ] KH Credit Card Reconciliation
+- [ ] Tina Home Dec LLC 8832 IRS letter
+- [ ] Property Insurance Renewal Dennis email
+- [ ] avalara party filing access from ID 
+- [ ] halo security PCI scan payment.
+- [ ] paypal financial issue
+- [ ] Bill.com CSC invoice payment deduction
+- [ ] Recalculate Sales tax nexus
+- [ ] SVB transfer 10K
 
 
 
