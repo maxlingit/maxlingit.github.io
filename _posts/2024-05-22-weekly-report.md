@@ -11,28 +11,24 @@ layout: post
 ---
 
 ### 完成项目  
-- [x] AVALARA MO
-- [x] AVALARA MS
-- [x] AVALARA CO
-- [x] 所有税务报表给王静
-- [x] fix hud group bill.com invoices
-- [x] Calculate sales tax based on COGS
-- [x]  Karat Home Canada Tax
-	- [x] Karat Home GST
-	- [x] Karat Home QST
-	- [x] Karat Home BC
-- [x] PCI scanning- target
-- [x] Z Gallerie Home LLC check order
-- [x] Art of Living Sales tax
-- [x] Bill.com for Marcia -ZG
-- [x] Bill.com for Marcia -Ecom
-- [x] Texas Franchise tax extension -KH
-- [x] Texas Franchise tax
-- [x] SOARINGWING FURNITURE INC TFT
-- [x] LAYNSINO FURNITURE INC TFT
-- [x] Creation Furniture TFT
-- [x] EEKO Home TFT
-- [x] Urban Vague TFT
+
+- [x] Z Gallerie with the GIS Navigator portal.
+- [x] Tina Home Dec LLC 8832 IRS letter
+- [x] avalara party filing access from ID 
+- [x] Recalculate Sales tax nexus
+- [x] SVB transfer 20K
+- [x] Amended CA Q1 sales tax Schedule A
+- [x] Health Insurance Enrollment for Lori
+- [x] Health Insurance Enrollment for alex
+- [x] alliance trade over due 
+- [x] sobia -ZG vendor information 
+- [x] Activate Lori Health Deduction in June 1st payroll period
+- [x] Ecom Payroll
+- [x] ZG payroll
+- [x] 信用卡额度提升CHINA OFFCE
+- [x] Irving Lease GL certificate
+- [x] Irving Lease ROU calculation
+- [x] ZG这边的费用BILL审批流程还需要你帮忙加个吴文慧
 ---
 ### 本周项目
 
@@ -53,23 +49,27 @@ layout: post
 - [ ] BOI report for all the companies
 - [ ] insurance account summary
 - [ ] March 2024 - May 2024 ZG Home Q1 NY
-- [ ] Z Gallerie with the GIS Navigator portal.
 - [ ] Karat Home ECheck with Amy 
 - [ ] Karat Home Reviewed Financial Statement
 - [ ] KH Bank Reconciliation
 - [ ] bigCommerce Payment
 - [ ] KH Credit Card Reconciliation
-- [ ] Tina Home Dec LLC 8832 IRS letter
 - [ ] Property Insurance Renewal Dennis email
-- [ ] avalara party filing access from ID 
 - [ ] halo security PCI scan payment.
 - [ ] paypal financial issue
 - [ ] Bill.com CSC invoice payment deduction
-- [ ] Recalculate Sales tax nexus
-- [ ] SVB transfer 10K
-- [ ] Amended CA Q1 sales tax Schedule A
 - [ ] Property Insurance with Mark's quote
-
+- [ ] April Jp Morgan borrow base certificate
+- [ ] April Jp Morgan AR
+- [ ] Jp Morgan Inventory
+- [ ] Activate Alexia Health Deduction in July 1st payroll period
+- [ ] Karat Home rental insurance
+- [ ] CT notice to Avalara - sent to Avalara
+- [ ] Marilulu LLC Sales Permit
+- [ ] Marilulu TFT PIR
+- [ ] 1st Rental Payment
+- [ ] google account suspend
+- [ ] Maria Missing 8 hour PTO
 
 
 
