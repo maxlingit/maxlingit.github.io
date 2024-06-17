@@ -2,14 +2,19 @@
 layout: post
 title: 如何使用Credit Card Machine
 categories:
-  - 步骤
+  - Procedures
 tags:
   - 财务部
   - JIE
 date: 2024-01-03
 img_path: /assets/img/POSMachine/
 ---
-# 一共有2种可以收款方式
+# There are three ways we can collect from Customers
+
+1. Credit Card POS Machine
+2. Online Terminal 
+	1. Charge Customer by us
+	2. Email a Payment Link
 
 ## 一. Credit Card Machine
 ### To Charge customer:
@@ -39,7 +44,7 @@ Pw: 16G36120    SN:7005
 
 
 
-## 二. Online Sales Website
+## 二. Online Terminal to Charge
 
 https://www.convergepay.com/converge-webapp/#!/login
 #### Admin Account: uscpa@karathome.com
@@ -88,70 +93,76 @@ https://www.convergepay.com/converge-webapp/#!/login
 ![[Pasted image 20231214155530.png]](Pasted image 20231214155530.png)
 
 
-### Pay online (给客户发邮件，在网上付款)
+### Email a Payment Link (给客户发邮件，在网上付款)
 
-#### 1.找到收款功能
+#### 1. Go to -> Invoice & Quotes
 
 - 在左边找到：invoices & Quotes
 - 点击右上角：New Invoices
 ![[Pasted image 20240110124507.png]](Pasted image 20240110124507.png)
-#### 2. 选择product
-- 选择已有产品信息
-- 或者添加新产品信息
+#### 2. Select Product
+- Select Product Name 
+- Add Product Information
 	- product description: 产品信息
 	- product Code: SKU 号
 	- Unit Price: 单品价格
 	- Quantity: 数量
 
 ![[Pasted image 20240110124733.png]](Pasted image 20240110124733.png)
-####  3. 添加invoice number
-- 最好invoice number可以跟NS对应
-- 如果不添加，系统会自动生成
+####  3. add invoice number
+- invoice number need to match Netsuite
+- If we don't system will create a random invoice number
 ![[Pasted image 20240110125102.png]](Pasted image 20240110125102.png)
-####  4. 添加客户信息Customer info 
-- 寻找已有客户信息
-- 新客户必须要输入名字，邮箱，地址
+####  4. add Customer info 
+- Existing Customer
+- New Customer need to add their name, address, Zip Code and Email
 - 当这个客户第一次付款完成，会自动保存到客户名单里
 - 建议先在客户名单里添加客户
 
 ![[Pasted image 20240110125215.png]](Pasted image 20240110125215.png)
-####  5. 添加并确认客户的收货地址 ship to
+####  5. Add Ship to Info (optional)
 
 - 点击Ship to
 - 在展开页面下添加客户的收货地址
 ![[Pasted image 20240110125659.png]](Pasted image 20240110125659.png)
 
-#### 6.添加截止时间，账期，和其他email
-- CC Email 是额外需要添加的email地址。
+#### 6.Add due date, Terms and cc email
+- Note: Customer email was added in the customer info, you can cc additional contact
 ![[Pasted image 20240110125843.png]](Pasted image 20240110125843.png)
-#### 7.完成后点击发送按钮
+
+#### 7. add attachment, you can attach original invoice
+#### 8.When everything is input and verified, Hit "Send Invoice"
 ![[Pasted image 20240110130326.png]](Pasted image 20240110130326.png)
-#### 8.客户退款
-- 找到payments 下面的 Settled batches
+#### 9. Customer Refund
+- Find "payments" --> Settled batches
  ![[Pasted image 20240110130643.png]](Pasted image 20240110130643.png)
  
- - 找到对应的invoice
+ - Find the correct invoice
  ![[Pasted image 20240110130809.png]](Pasted image 20240110130809.png)
 
-- 点击对应invoice，右边会出现refund按钮
+- Click invoice，there is a refund button
 ![[Pasted image 20240110130857.png]](Pasted image 20240110130857.png)
 
-- 输入需要退款的金额
+- Enter Refund amount
 ![[Pasted image 20240110130930.png]](Pasted image 20240110130930.png)
 
-- 最后选择：issue refund 即可完成
+- Final setp：issue refund 
 ![[Pasted image 20240110131006.png]](Pasted image 20240110131006.png)
 
 
-#### 9.support team 如果碰到问题客服联系方式
-
-- 800-377-3962   24/7 anything with converge website
 
 
+## 四.support team
 
-# Merchant Fee Website
+- 800-377-3962  
+- Option 2 Option 2 again  
+- 24/7 anything with converge website
+
+# Merchant Fee Website to see billing
 
 ### https://www.mypaymentsinsider.com/ui/#/us/en_US/dashboard
 
 ### Monthly Statements
 ### Monthly Charge
+
+

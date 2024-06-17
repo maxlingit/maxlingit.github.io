@@ -70,6 +70,8 @@ layout: post
 - [ ] 1st Rental Payment
 - [ ] google account suspend
 - [ ] Maria Missing 8 hour PTO
+- [ ] Shannon Credit Card
+- [ ] Shannon Payroll Set up
 
 
 

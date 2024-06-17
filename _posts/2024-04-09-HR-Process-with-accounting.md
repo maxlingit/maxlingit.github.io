@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Procedures
 title: HR Process with accounting
 date: 2024-04-08
 tags:

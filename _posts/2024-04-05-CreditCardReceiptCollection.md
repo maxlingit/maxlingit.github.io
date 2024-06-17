@@ -5,7 +5,7 @@ categories:
 title: Credit Card Receipt Collection for Card Holders
 date: 2024-04-05
 tags:
-  - 财务部
+  - Procedures
 ---
 ## Summary
  

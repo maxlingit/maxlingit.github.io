@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Procedures
 title: 如何准备银行核对表
 date: 2024-04-30
 tags:
@@ -95,7 +95,7 @@ For the **first time** vendor setup please send the vendor payment method docume
 
 You will need to provide clear instruction how to pay online
 
-- url link
+- Url link
 - account number
 - login info
 - password
