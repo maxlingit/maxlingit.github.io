@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Procedures
 title: Credit Card Receipt Collection for Card Holders
 date: 2024-04-05
 tags:
@@ -29,6 +29,7 @@ tags:
 
 There are 2 way you can upload your receipts.
 - Intuit Quickbook App (recommended)
+- Intuit Online
 - email to khacct2023@gmail.com   supporting format: PDF, JPEG, JPG, GIF, and PNG
 
 
@@ -76,8 +77,29 @@ To follow these steps, make sure you have installed the QuickBooks Online app fo
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53634568374/in/dateposted-public/" title="category 2"><img src="https://live.staticflickr.com/65535/53634568374_172f8a66f4.jpg" width="500" height="388" alt="category 2"/></a>
 
 10. Hit "Save" then you are Done.
+11. **PLEASE DO NOT "Create Expense"**
+#### Intuit Online
 
-##### Email receipts or bills to QuickBooks
+1. Visit Website at :https://accounts.intuit.com/app/sign-in?app_group=QBO
+
+2. Go to "Transaction"  --> "Receipts"
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53807231179/in/dateposted-public/" title="transaction-receipt"><img src="https://live.staticflickr.com/65535/53807231179_d3f89d0f77_b.jpg" width="1024" height="463" alt="transaction-receipt"/></a>
+3. "Upload from your Computer"  - you can click or drag & Drop here.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53806906081/in/dateposted-public/" title="upload"><img src="https://live.staticflickr.com/65535/53806906081_686d3c4d92_b.jpg" width="1024" height="463" alt="upload"/></a>
+4. Once they extract the document, you will be able to see them in "For Review"
+
+5. And Click the "Review" on the document you uploaded
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53807242134/in/dateposted-public/" title="review"><img src="https://live.staticflickr.com/65535/53807242134_8a524f2312_b.jpg" width="1024" height="463" alt="review"/></a>
+6. Make sure the document type is "Receipt"
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53805980357/in/dateposted-public/" title="doc type"><img src="https://live.staticflickr.com/65535/53805980357_11acd32f86_b.jpg" width="1024" height="463" alt="doc type"/></a>
+7. Change the "Bank/Credit Account" to the correct account of the payment.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53807355255/in/dateposted-public/" title="account"><img src="https://live.staticflickr.com/65535/53807355255_33c2873c99_b.jpg" width="1024" height="463" alt="account"/></a>
+8. Change the "Account/Category" to the closest match to your expense
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53807162178/in/dateposted-public/" title="category"><img src="https://live.staticflickr.com/65535/53807162178_ea7cb632a6_b.jpg" width="1024" height="463" alt="category"/></a>
+9. Once you verify the $dollar$ amount match, you can hit "Save and Close"
+10. Then you are done.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/53807264664/in/dateposted-public/" title="save"><img src="https://live.staticflickr.com/65535/53807264664_5584eecb3c_b.jpg" width="1024" height="463" alt="save"/></a>
+#### Email receipts or bills to QuickBooks
 
 If you have a receipt in email, you can also email to khacct2023@gmail.com  supporting format: PDF, JPEG, JPG, GIF, and PNG
 We’ll extract info from it and create a transaction for you. 

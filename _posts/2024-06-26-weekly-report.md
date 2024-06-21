@@ -1,6 +1,6 @@
 ---
-title: 2024-6-12周报
-date: 2024-06-12
+title: 2024-6-26周报
+date: 2024-06-26
 categories:
   - 周报
 tags:
@@ -11,26 +11,32 @@ layout: post
 ---
 ### 完成项目  
 
-- [x] 1st Rental Payment
-- [x] People Link ACH information
-- [x] Danni Yu Credit Card processing info
-- [x] IN state withholding tax
-- [x] Texas Sales tax Notice -submit to avalara to change outlet code
-- [x] Verify Amazon AWS Zgallerie payment status
-- [x] KH payroll
-- [x] Ecom Payroll
-- [x] ZG payroll
-- [x] KH GL insurance
-- [x] NJ inventory insurance questions
-- [x] PCI compliance Rejected ,need SAO D
-- [x] PCI scanning- jessica_perez@halosecurity.com
-- [x] CT notice to Avalara - sent to Avalara
-- [x] March 2024 - May 2024 ZG Home Q1 NY
-- [x] Check with NS function for ZG
-- [x] KH Credit Card Reconciliation
+- [x] ZG sales tax add a reporting period
+- [x] ZG sales tax report JAN -FEB sales to May and June
+- [x] ZG Sales Tax Journal entries for kelly
+- [x] ZG Resales Certificate
+- [x] ZG payment for Furniture Purchase
+- [x] Quote for NetSuite Connector
+- [x] KH Property Insurance Renewal Quote Comparision
+- [x] Insurance Summary for BPP
+- [x] 帮tao寄支票$57.2
+- [x] 寄10个支票给桃回中国
+- [x] Mark Guo converge portal
+- [x] 员工工资
+	- [x] KH 把monthly换成bi-weekly 不用改
+	- [x] ZG
+	- [x] ECOM
+- [x]  Karat Home Canada Tax
+	- [x] Karat Home GST
+	- [x] Karat Home QST
+	- [x] Karat Home BC
+
+### 完成项目  
+
+
+
 ---
 ### 本周项目
-
 
 - [ ] NJ nexus issue with state (NJ, NC,CA)  #财务部 
 > 等待hannah 那边给计划  
@@ -54,36 +60,23 @@ layout: post
 - [ ] Marilulu TFT PIR
 - [ ] google account suspend
 - [ ] KH North Carolina Employer login unemployment
-- [ ] ZG Sales Tax Journal entries for kelly
-- [x] ZG sales tax add a reporting period
-- [x] ZG sales tax report JAN -FEB sales to May and June
 - [ ] Fix MO,MS avalara setting
-- [x] KH Property Insurance Renewal Quote Comparision
 - [ ] Register MO sales tax
 - [ ] Register MS sales tax
 - [ ] Register MO sales tax
 - [ ] Register MS sales tax
-- [x] ZG Resales Certificate
-- [x] ZG payment for Furniture Purchase
-- [x] Quote for NetSuite Connector
 - [ ] Avalara Additional Tax Return Calculation
-- [x] Insurance Summary for BPP
 - [ ] ZG May Sales Tax Return For CT
 - [ ] ZG May Sales Tax Return For MS
-- [x] 帮tao寄支票$57.2
-- [x] 寄10个支票给桃回中国
-- [x] Mark Guo converge portal
 - [ ] Move5000 form to sign change to 1 devices.
 - [ ] Check to see if JP morgan accept china audit
 - [ ] CA Q1 2024 Sales tax Return Amendment
-- [x] 员工工资
-	- [x] KH 把monthly换成bi-weekly 不用改
-	- [x] ZG
-	- [x] ECOM
-- [x]  Karat Home Canada Tax
-	- [x] Karat Home GST
-	- [x] Karat Home QST
-	- [x] Karat Home BC
+- [ ] GL insurance renewal
+- [ ] Certificate of insurance for all
+- [ ] Tim Oaks Health Insurance Enrollment
+- [ ] Rashelle Health Insurance Enrollment
+- [ ] Tony Health Insurance Enrollment
+
 
 
 
