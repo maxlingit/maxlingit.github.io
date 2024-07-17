@@ -20,7 +20,7 @@ tags:
 
 # 3. Book to Tax Depreciation
 
-# 4. Accrued Sales Return
+# 4. Accrued Sales Return (Also to inventory cost)
 
 # 5. Allowance for Bad Debt
 

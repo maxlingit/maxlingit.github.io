@@ -9,32 +9,25 @@ tags:
   - 财务部
 layout: post
 ---
-### 完成项目  
-
-- [x] ZG sales tax add a reporting period
-- [x] ZG sales tax report JAN -FEB sales to May and June
-- [x] ZG Sales Tax Journal entries for kelly
-- [x] ZG Resales Certificate
-- [x] ZG payment for Furniture Purchase
-- [x] Quote for NetSuite Connector
-- [x] KH Property Insurance Renewal Quote Comparision
-- [x] Insurance Summary for BPP
-- [x] 帮tao寄支票$57.2
-- [x] 寄10个支票给桃回中国
-- [x] Mark Guo converge portal
-- [x] 员工工资
-	- [x] KH 把monthly换成bi-weekly 不用改
-	- [x] ZG
-	- [x] ECOM
-- [x]  Karat Home Canada Tax
-	- [x] Karat Home GST
-	- [x] Karat Home QST
-	- [x] Karat Home BC
 
 ### 完成项目  
 
-
-
+- [x] April Jp Morgan borrow base certificate
+- [x] April Jp Morgan AR
+- [x] April Jp Morgan Inventory
+- [x] May Jp Morgan borrow base certificate
+- [x] May Jp Morgan AR
+- [x] May Jp Morgan Inventory
+- [x] Activate Alexia Health Deduction in July 1st payroll period
+- [x] Move5000 form to sign change to 1 devices.
+- [x] Check to see if JP morgan accept china audit
+- [x] CA Q1 2024 Sales tax Return Amendment
+- [x] GL insurance renewal
+- [x] Certificate of insurance for all
+- [x] Tim Oaks Health Insurance Enrollment
+- [x] Tony Health Insurance Enrollment
+- [x] Shannon Health Insurance Enrollment
+- [x] Houston- Harris Rendition wavier
 ---
 ### 本周项目
 
@@ -50,33 +43,55 @@ layout: post
 - [ ] Karart Home Texas 
 - [ ] BOI report for all the companies
 - [ ] Karat Home ECheck with Danni
-- [ ] Karat Home Reviewed Financial Statement
+- [ ] Karat Home Reviewed Financial Statement - Chinese version
 - [ ] paypal financial issue
-- [ ] April Jp Morgan borrow base certificate
-- [ ] April Jp Morgan AR
-- [ ] Jp Morgan Inventory
-- [ ] Activate Alexia Health Deduction in July 1st payroll period
 - [ ] Marilulu LLC Sales Permit
 - [ ] Marilulu TFT PIR
 - [ ] google account suspend
 - [ ] KH North Carolina Employer login unemployment
-- [ ] Fix MO,MS avalara setting
-- [ ] Register MO sales tax
-- [ ] Register MS sales tax
-- [ ] Register MO sales tax
-- [ ] Register MS sales tax
-- [ ] Avalara Additional Tax Return Calculation
-- [ ] ZG May Sales Tax Return For CT
+- [x] Fix MO,MS avalara setting
+- [x] Register MO sales tax
+- [x] Register MS sales tax
+- [x] Register MO sales tax
+- [x] Register MS sales tax
+- [x] Avalara Additional Tax Return Calculation
+- [x] ZG May Sales Tax Return For CT
 - [ ] ZG May Sales Tax Return For MS
-- [ ] Move5000 form to sign change to 1 devices.
-- [ ] Check to see if JP morgan accept china audit
-- [ ] CA Q1 2024 Sales tax Return Amendment
-- [ ] GL insurance renewal
-- [ ] Certificate of insurance for all
-- [ ] Tim Oaks Health Insurance Enrollment
-- [ ] Rashelle Health Insurance Enrollment
-- [ ] Tony Health Insurance Enrollment
 
+- [ ] Rashelle Health Insurance Enrollment
+
+- [ ] Amended March or Feb TX sales tax return
+- [ ] Amended March IL Sales Tax Return 
+
+- [ ] File MS June Final Sales Return
+- [x] File DC June Final Sales Return
+- [x] File ID June Final Sales Return
+- [x] File MA June Final Sales Return
+- [x] File AL June Final Sales Return
+- [x] File NY June Sales Return due to the NY notice and Late adjustment on avalara
+- [x] Avalara May Tax Payment has not submitted issue
+- [x] Fortitude Payment from Jan to June
+- [x] Karat Home Payroll
+- [x] ZG payroll
+- [x] ECom payroll
+- [x] KH Payroll change monthly to bi-weekly for all employee
+- [x] AWS June Payment
+- [x] Glew payment setup
+- [x] Jie Credit card Suspend
+- [x] Karat Home Q1/Q2 Payroll Report for Visa
+- [ ] Bill.com Intergation with Netsuite
+- [x] Change NY Sales tax from Quarterly to Monthly
+- [x] Active Tony Deduction after June monthly payroll to bi-weekly
+- [x] Active Shannon Deduction after June monthly payroll to bi-weekly
+- [x] Active Tim Deduction after June monthly payroll to bi-weekly
+- [ ] Bill.com Approval setting send a list of vendor Jie & Sobia.
+- [x] COI for CA Gardna Warehouse
+- [x] NM termination
+- [ ] JPM Line of Credit Advance Form
+- [ ]  Karat Home Canada Tax
+	- [ ] Karat Home GST
+	- [ ] Karat Home QST
+	- [ ] Karat Home BC
 
 
 

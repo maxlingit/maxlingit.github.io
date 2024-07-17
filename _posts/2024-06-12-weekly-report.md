@@ -48,7 +48,10 @@ layout: post
 - [ ] paypal financial issue
 - [ ] April Jp Morgan borrow base certificate
 - [ ] April Jp Morgan AR
-- [ ] Jp Morgan Inventory
+- [ ] April Jp Morgan Inventory
+- [ ] May Jp Morgan borrow base certificate
+- [ ] May Jp Morgan AR
+- [ ] May Jp Morgan Inventory
 - [ ] Activate Alexia Health Deduction in July 1st payroll period
 - [ ] Marilulu LLC Sales Permit
 - [ ] Marilulu TFT PIR
@@ -59,23 +62,27 @@ layout: post
 - [x] ZG sales tax report JAN -FEB sales to May and June
 - [ ] Fix MO,MS avalara setting
 - [x] KH Property Insurance Renewal Quote Comparision
-- [ ] Register MO sales tax
+- [x] Register MO sales tax
 - [ ] Register MS sales tax
-- [ ] Register MO sales tax
-- [ ] Register MS sales tax
+- [ ] Register CO sales tax
 - [x] ZG Resales Certificate
 - [x] ZG payment for Furniture Purchase
 - [x] Quote for NetSuite Connector
 - [ ] Avalara Additional Tax Return Calculation
 - [x] Insurance Summary for BPP
-- [ ] ZG May Sales Tax Return For CT
-- [ ] ZG May Sales Tax Return For MS
+- [x] ZG May Sales Tax Return For CT
+- [x] ZG May Sales Tax Return For MS
 - [x] 帮tao寄支票$57.2
 - [x] 寄10个支票给桃回中国
 - [x] Mark Guo converge portal
 - [ ] Move5000 form to sign change to 1 devices.
 - [ ] Check to see if JP morgan accept china audit
 - [ ] CA Q1 2024 Sales tax Return Amendment
+- [ ] AL Sales tax Termination Final
+- [ ] DC Sales tax Termination Final
+- [ ] ID Sales tax Termination Final
+- [ ] MA Sales tax Termination Final
+- [ ] MS Sales tax Termination Final
 - [x] 员工工资
 	- [x] KH 把monthly换成bi-weekly 不用改
 	- [x] ZG
