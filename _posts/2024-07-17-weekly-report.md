@@ -81,13 +81,14 @@ layout: post
 - [x] KH payroll
 - [x] ZG payroll
 - [x] ECOM payroll
-- [ ] **Check ZG product Group and Old SKU ID**
+- [x] **Check ZG product Group and Old SKU ID**
 - [ ] Expense vendor reclass
 - [ ] 跟sobia review NS together and see if inventory is being tracked at SKU level
 - [ ]  Karat Home Canada Tax
-	- [ ] Karat Home GST
-	- [ ] Karat Home QST
-	- [ ] Karat Home BC
+	- [x] Karat Home GST
+	- [x] Karat Home QST
+	- [x] Karat Home BC
+	- [x] Karat Home MB Q2
 
 
 
