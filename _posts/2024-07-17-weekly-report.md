@@ -73,18 +73,18 @@ layout: post
 - [x] COI for CA Gardna Warehouse
 - [x] NM termination
 - [ ] Avalara Netsuite Connector Kick off meeting 7/19
-- [ ] JPM Line of Credit Advance Form
-- [ ] 跟sobia过NS会计流程
-- [ ] 跟sobia过NS税务流程
-- [ ] 跟sobia过tableau BI财务报表
-- [ ] 跟sobia过Bill.com and vendor list
+- [x] JPM Line of Credit Advance Form
+- [x] 跟sobia过NS会计流程
+- [x] 跟sobia过NS税务流程
+- [x] 跟sobia过tableau BI财务报表
+- [x] 跟sobia过Bill.com and vendor list
 - [x] KH payroll
 - [x] ZG payroll
 - [x] ECOM payroll
 - [x] **Check ZG product Group and Old SKU ID**
 - [ ] Expense vendor reclass
 - [ ] 跟sobia review NS together and see if inventory is being tracked at SKU level
-- [ ]  Karat Home Canada Tax
+- [x]  Karat Home Canada Tax
 	- [x] Karat Home GST
 	- [x] Karat Home QST
 	- [x] Karat Home BC
