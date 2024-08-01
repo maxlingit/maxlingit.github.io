@@ -73,6 +73,9 @@ tags:
 	- Expense Type:
 		1. Marketing
 		2. Advertising
+		2. Creative
+		3. Photography Service Fee
+		4. Consulting
 
 - IT Group
 	- Approval Person:  Patrick
@@ -86,13 +89,10 @@ tags:
 		1. Customer Services software: aftership
 		2. Customer Services related
 
-- Creative Group
+- Creative Group (Disabled)
 	- Approval Person:  Shannon
 	- Expense Type:
-		1. Marketing
-		2. Creative
-		3. Photography Service Fee
-		4. Consulting
+
 
 - China Team
 	- Expense Type:  

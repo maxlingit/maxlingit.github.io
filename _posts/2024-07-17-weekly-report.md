@@ -54,28 +54,33 @@ layout: post
 - [ ] Marilulu TFT PIR
 - [x] google account suspend
 - [ ] KH North Carolina Employer login unemployment
-- [ ] Terminate NJ employer Account
 - [x] ZG May Sales Tax Return For MS
-- [ ] Rashelle Health Insurance Enrollment
+- [x] Rashelle Health Insurance Enrollment
 - [ ] Amended March or Feb TX sales tax return
 - [ ] Amended March IL Sales Tax Return 
 - [x] File MS June Final Sales Return
 - [ ] NJ Employer account termination   https://support.gusto.com/article/221005142111457/Closing-and-reopening-a-federal-state-or-local-tax-account
-- [ ] Bill.com Intergation with Netsuite
-- [ ] Bill.com Approval setting send a list of vendor Jie & Sobia.
-- [ ] Avalara Netsuite Connector Training with Jeffery
+- [ ] Bill.com Integration with Netsuite[2024-07-31-ZGallerie-Bill-Nestuite Intergration]
+- [ ] Avalara Integration with Netsuite [2024-07-31-ZGallerie-Avalara-Netsuite-intergration]
+- [x] Bill.com Approval setting send a list of vendor Jie & Sobia.
+- [x] Avalara Netsuite Connector Training with Jeffery
 - [ ] weekly transfer money from paypal to Chase
 - [ ] NJ Building Insurance Renewal 8/5
+- [x] MO State Sales tax Notice
+
 - [x] Houston Rent pay to another landlord
-- [ ] CA Q2 sales tax -avalara Note filed.
+- [x] CA Q2 sales tax -avalara Note filed.
 - [ ] UPS invoices payment nicolaspaul@ups.com
 - [ ] Design PPT for Co-Op company with Pricing quote[[Design PPT for Co-Op company with Pricing quote|Design PPT for Co-Op company with Pricing quote]]
-- [ ] Expense vendor reclass
+- [x] Expense vendor reclass
 - [x] Stripe add more fund
+- [x] SVB add more fund
+- [ ] Sonia laid off
+- [ ] Katy laid off
 - [x] ZG budget for 2024-2028
 -![[Pasted image 20240726150237.png]]
 - [ ] NJ Building Insurance Renewal
-- [ ] Dashboard report for ZG![[Pasted image 20240726150256.png]]
+- [ ] Dashboard report for ZG[2024-07-31-ZGallerie-Sales-Dashboard-Report]![[salesDashborad.png]]
 
 
 
