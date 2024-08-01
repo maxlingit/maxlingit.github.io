@@ -84,7 +84,7 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
-### 3. OpenSales -Open_Sales
+### 3. OpenSales - Open_Sales
 
 - Definition 
 	- The total dollar amount of sales orders that have been received but not yet fulfilled or completed.
@@ -109,8 +109,67 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
+### 4.Shipping
 
-### 4. Order Items
+- Definition 
+	- The total dollar amount of shipping fee collected when sales orders that have been received but not yet fulfilled or completed.
+	
+- Metric Interaction with time
+	- The datetime the sales order is place and paid for.
+#### 4.1 Shipping - Cancel 
+
+- Definition 
+	-  The total dollar amount of shipping fee collected on sales orders within a specified period but order was canceled before we ship the item to customers
+
+- Metric Interaction with time
+	- it is shown based on the datetime order was placed (not the cancelation time)
+#### 4.2 Shipping - Sales
+
+- Definition 
+	-  The total dollar amount of shipping fee collected on sales orders within a specified period
+
+- Metric Interaction with time
+	- it is shown based on the datetime order was placed
+	
+### 5. %Diff_in_Weeks
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** sales orders from one week compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales
+	
+### 6. %Diff_in_Month
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** sales orders from one **Month** compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales
+
+
+### 7 Quantity - Shippied_Qty
+
+- Definition 
+	- The total number of units fulfilled a specified period
+	- net with **cancel order** quantity 
+	
+- Metric Interaction with time
+	- The datetime the order is fulfilled and shipped.
+	
+- Database field
+
+#### 7.1 Shippied_Qty - Return 
+
+- Definition 
+	- units **sold and fulfilled** within a specified period but order was return by customer
+
+- Metric Interaction with time
+	- it is shown based on the datetime order is **fulfilled** and **shipped** (Not the time it was returned)
+#### 7.2 Shippied_Qty - Sales
+
+- Definition 
+	- units **fulfilled** within a specified period
+
+- Metric Interaction with time
+	- it is shown based on the datetime order order is **fulfilled**
+### 10. Order Items
 
 In Netsuite each sales order has the following sales item type, this is how it is classified
 - Item type
@@ -118,7 +177,7 @@ In Netsuite each sales order has the following sales item type, this is how it i
 	3. Service item        - warranty or membership
 	4. Shipping item     - shipping fee
 
-### 5. Inventory category
+### 11. Inventory category
 
 - Product Group
 - Department
