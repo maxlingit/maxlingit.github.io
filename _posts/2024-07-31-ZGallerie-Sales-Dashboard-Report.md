@@ -39,10 +39,11 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 		- **Return**: Customer received the product and want to return the product
 
 - Time metrics : we will follow the sales calendar week and monthly timeframe to expand the data
-	- monthly - is the calendar month
+	- monthly - is the retail 4-4-5 calendrer
 	- calendar week - weekly start on Sunday and end on Saturday
 	- 1st fiscal week start from February 4
-	
+	- Month is fiscal calendrer.
+![[Pasted image 20240802155123.png]]
 - below is the sketch graph from Scarlett
 
 ![[salesDashborad.png]]
@@ -73,7 +74,7 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	- units sold within a specified period but order was canceled before we ship the item to customers
 
 - Metric Interaction with time
-	- it is shown based on the datetime order was placed (not the cancelation time)
+	- it is shown based on the datetime order was **canceled**
 #### 2.2 Open_Qty - Sales
 
 - Definition 
@@ -95,7 +96,7 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	-  The total dollar amount of sales orders within a specified period but order was canceled before we ship the item to customers
 
 - Metric Interaction with time
-	- it is shown based on the datetime order was placed (not the cancelation time)
+	- it is shown based on the datetime order was **canceled**
 #### 3.2 Open_Sales - Sales
 
 - Definition 
@@ -103,21 +104,21 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
-### 4.Shipping
+### 4.SO_DeliveryIncome
 
 - Definition 
 	- The total dollar amount of shipping fee collected when sales orders that have been received but not yet fulfilled or completed.
 	
 - Metric Interaction with time
 	- The datetime the sales order is place and paid for.
-#### 4.1 Shipping - Cancel 
+#### 4.1 SO_DeliveryIncome - Cancel 
 
 - Definition 
 	-  The total dollar amount of shipping fee collected on sales orders within a specified period but order was canceled before we ship the item to customers
 
 - Metric Interaction with time
-	- it is shown based on the datetime order was placed (not the cancelation time)
-#### 4.2 Shipping - Sales
+	- it is shown based on the datetime order was **canceled**
+#### 4.2 SO_DeliveryIncome - Sales
 
 - Definition 
 	-  The total dollar amount of shipping fee collected on sales orders within a specified period
@@ -125,16 +126,16 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
 	
-### 5. %Diff_in_Weeks
+### 5. SO_WK_vs_WK_Variance
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation)from one week compare to previous week
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending) (net with cancelation)from one week compare to previous week
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 	
-### 6. %Diff_in_Month
+### 6. SO_Mtd_vs_Mtd variance
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation) from one **Month** compare to previous week
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending)  (net with cancelation) from one **Month** compare to previous week
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 
 
@@ -155,7 +156,7 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	- units **sold and fulfilled** within a specified period but order was return by customer
 
 - Metric Interaction with time
-	- it is shown based on the datetime order is **fulfilled** and **shipped** (Not the time it was returned)
+	- it is shown based on the datetime order is **returned**
 #### 7.2 Shippied_Qty - Sales
 
 - Definition 
@@ -177,7 +178,7 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	-  The total dollar amount of fulfilled sales orders within a specified period but order was returned 
 
 - Metric Interaction with time
-	- it is shown based on the datetime order was **fulfilled** (not the return time)
+	- it is shown based on the datetime order was  **returned**
 #### 8.2 Shipped_Sales - Sales
 
 - Definition 
@@ -185,13 +186,15 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was **fulfilled**
-### 9. %Diff_in_Weeks_Shipped
+
+### 9. DeliveryIncome
+### 9. WK_vs_WK_Variance
 
 - Definition 
 	- The percentage change in the dollar amount of **Net** Fulfilled sales orders + shipping fee (net with cancelation) from one week compare to previous week
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 	
-### 10. %Diff_in_Month_Shipped
+### 10. Mtd_vs_Mtd_variance
 
 - Definition 
 	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation) from one **Month** compare to previous week
@@ -207,9 +210,11 @@ In Netsuite each sales order has the following sales item type, this is how it i
 
 ### 11. Segmentations
 
-We need to add a filter to enable user to select the follow segmentation to see the metrics
+We need to add a **filter** to enable user to select the follow segmentation to see the metrics
 
 - Product Group
 - Department
 - Class
 - Collection
+
+**We need to be able to pull multiple segmentation in the same BI report.** 

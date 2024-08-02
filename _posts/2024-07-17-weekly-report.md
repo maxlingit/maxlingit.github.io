@@ -75,8 +75,9 @@ layout: post
 - [x] Expense vendor reclass
 - [x] Stripe add more fund
 - [x] SVB add more fund
-- [ ] Sonia laid off
-- [ ] Katy laid off
+- [ ] Amazon July bill payment
+- [x] Sonia laid off
+- [x] Katy laid off
 - [x] ZG budget for 2024-2028
 -![[Pasted image 20240726150237.png]]
 - [ ] NJ Building Insurance Renewal
