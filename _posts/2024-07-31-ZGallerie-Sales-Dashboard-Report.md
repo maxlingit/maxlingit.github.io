@@ -41,6 +41,8 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - Time metrics : we will follow the sales calendar week and monthly timeframe to expand the data
 	- monthly - is the calendar month
 	- calendar week - weekly start on Sunday and end on Saturday
+	- 1st fiscal week start from February 4
+	
 - below is the sketch graph from Scarlett
 
 ![[salesDashborad.png]]
@@ -51,15 +53,13 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - But the new dashboard is going to be based on Netsuite data source
 
 # 4. Metrics
-	Note: will use [Netsuite field] name and {GERS Field} Name to distingush the metric from different data source
+
 ### 1. Transaction datetime
 
 - Definition 
 	- Transaction datetime should be based on BigCommerce Order time
 	- these datetime field can be expand into Year, Quarter, Month, Week, Weekday, Day & time
 -  Database field
-	- ("transaction"."trandate")
-	- {SO_WR_DT} Or {FINAL_DT}
 ### 2. Quantity - Open_Qty
 
 - Definition 
@@ -67,9 +67,6 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	- net with **cancel order** quantity 
 - Metric Interaction with time
 	- The datetime the sales order is place and paid for.
-- Database field
-	- ("transactionLine"."quantity")  - positive value
-	- {SO_LN.QTY}
 #### 2.1 Open_Qty - Cancel 
 
 - Definition 
@@ -92,9 +89,6 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - Metric Interaction with time
 	- The datetime the sales order is place and paid for.
 	
-- Database field
-	- {SO_LN.QTY * SO_LN.UNIT_PRC}
-	- ("transactionLine"."creditforeignamount") OR ("transactionLine"."debitforeignamount")
 #### 3.1 Open_Sales - Cancel 
 
 - Definition 
@@ -134,14 +128,14 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 ### 5. %Diff_in_Weeks
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders from one week compare to previous week
-	- This column doesn't separately calculate the %change in cancelled order, only net sales
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation)from one week compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 	
 ### 6. %Diff_in_Month
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders from one **Month** compare to previous week
-	- This column doesn't separately calculate the %change in cancelled order, only net sales
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation) from one **Month** compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 
 
 ### 7 Quantity - Shippied_Qty
@@ -168,8 +162,42 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	- units **fulfilled** within a specified period
 
 - Metric Interaction with time
-	- it is shown based on the datetime order order is **fulfilled**
-### 10. Order Items
+	- it is shown based on the datetime the order is **fulfilled**
+### 8. Shipped Sales - Shipped_Sales
+
+- Definition 
+	- The total dollar amount of sales orders that have been fulfilled or completed.
+	
+- Metric Interaction with time
+	- The datetime the sales order order is fulfilled and shipped.
+	
+#### 8.1 Shipped_Sales - Returned 
+
+- Definition 
+	-  The total dollar amount of fulfilled sales orders within a specified period but order was returned 
+
+- Metric Interaction with time
+	- it is shown based on the datetime order was **fulfilled** (not the return time)
+#### 8.2 Shipped_Sales - Sales
+
+- Definition 
+	-  The total dollar amount of sales orders was **fulfilled** within a specified period
+
+- Metric Interaction with time
+	- it is shown based on the datetime order was **fulfilled**
+### 9. %Diff_in_Weeks_Shipped
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** Fulfilled sales orders + shipping fee (net with cancelation) from one week compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
+	
+### 10. %Diff_in_Month_Shipped
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation) from one **Month** compare to previous week
+	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
+
+### 11. Order Items
 
 In Netsuite each sales order has the following sales item type, this is how it is classified
 - Item type
@@ -177,43 +205,11 @@ In Netsuite each sales order has the following sales item type, this is how it i
 	3. Service item        - warranty or membership
 	4. Shipping item     - shipping fee
 
-### 11. Inventory category
+### 11. Segmentations
+
+We need to add a filter to enable user to select the follow segmentation to see the metrics
 
 - Product Group
 - Department
 - Class
 - Collection
-
-# 5. Visualization
-    
-    - The type of chart or graph used to display the metric on the dashboard (e.g., line chart, bar graph, pie chart).
-# 6. Segmentations
-    
-    - Any segments or filters applied to the metric (e.g., by region, by product line, by customer type).
-# 7. **Context/Notes**:
-
-- **Metric Name**:
-    
-    - **Definition**: A clear and concise definition of the metric.
-    - **Purpose**: The reason for tracking this metric and how it aligns with business objectives.
-- **Category**:
-    
-    - The broader category to which this metric belongs (e.g., Sales, Marketing, Customer Support).
-- **Calculation/Formula**:
-    
-    - Detailed explanation of how the metric is calculated, including any necessary formulas.
-- **Data Source**:
-    
-    - The origin of the data used to calculate the metric (e.g., CRM system, Google Analytics, internal database).
-- **Frequency**:
-    
-    - How often the metric is updated (e.g., daily, weekly, monthly).
-- **Owner**:
-    
-    - The individual or team responsible for monitoring and reporting this metric.
-- **Target/Goal**:
-    
-    - The benchmark or target value for the metric. Include short-term and long-term goals if applicable.
-
-    
-    - Additional context or notes about the metric, including any assumptions, limitations, or external factors that may impact it.
