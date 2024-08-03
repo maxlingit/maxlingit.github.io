@@ -125,21 +125,19 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
+
 	
-### 5. SO_WK_vs_WK_Variance
+### 5. SO variance%
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending) (net with cancelation)from one week compare to previous week
+	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending)  (net with cancelation) from one period **Month** compare to previous week
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
-	
-### 6. SO_Mtd_vs_Mtd variance
+### 5.1 SO variance% -Weekly
+- This column of each week row display the % change compare to prior week
+### 5.2 SO variance% -Monthly
+- This column of each monthly total row display the % change compare to prior month
 
-- Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending)  (net with cancelation) from one **Month** compare to previous week
-	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
-
-
-### 7 Quantity - Shippied_Qty
+### 6 Quantity - Shippied_Qty
 
 - Definition 
 	- The total number of units fulfilled a specified period
@@ -150,21 +148,21 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	
 - Database field
 
-#### 7.1 Shippied_Qty - Return 
+#### 6.1 Shippied_Qty - Return 
 
 - Definition 
 	- units **sold and fulfilled** within a specified period but order was return by customer
 
 - Metric Interaction with time
 	- it is shown based on the datetime order is **returned**
-#### 7.2 Shippied_Qty - Sales
+#### 6.2 Shippied_Qty - Sales
 
 - Definition 
 	- units **fulfilled** within a specified period
 
 - Metric Interaction with time
 	- it is shown based on the datetime the order is **fulfilled**
-### 8. Shipped Sales - Shipped_Sales
+### 7. Shipped Sales - Shipped_Sales
 
 - Definition 
 	- The total dollar amount of sales orders that have been fulfilled or completed.
@@ -172,14 +170,14 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - Metric Interaction with time
 	- The datetime the sales order order is fulfilled and shipped.
 	
-#### 8.1 Shipped_Sales - Returned 
+#### 7.1 Shipped_Sales - Returned 
 
 - Definition 
 	-  The total dollar amount of fulfilled sales orders within a specified period but order was returned 
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was  **returned**
-#### 8.2 Shipped_Sales - Sales
+#### 7.2 Shipped_Sales - Sales
 
 - Definition 
 	-  The total dollar amount of sales orders was **fulfilled** within a specified period
@@ -187,20 +185,25 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 - Metric Interaction with time
 	- it is shown based on the datetime order was **fulfilled**
 
-### 9. DeliveryIncome
-### 9. WK_vs_WK_Variance
+### 8. DeliveryIncome
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** Fulfilled sales orders + shipping fee (net with cancelation) from one week compare to previous week
+	-  The total dollar amount of shipping fee fulfill in the period
+
+- Metric Interaction with time
+	- it is shown based on the datetime order was placed
+	
+### 9. Variance
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** Fulfilled sales orders + shipping fee (net with cancelation) from one week compare to previous peiord
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 	
-### 10. Mtd_vs_Mtd_variance
-
-- Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee (net with cancelation) from one **Month** compare to previous week
-	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
-
-### 11. Order Items
+### 9.1 variance% -Weekly
+- This column of each week row display the % change compare to prior week
+### 9.2 variance% -Monthly
+- This column of each monthly total row display the % change compare to prior month
+### 10. Order Items
 
 In Netsuite each sales order has the following sales item type, this is how it is classified
 - Item type
