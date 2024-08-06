@@ -61,10 +61,15 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	- Transaction datetime should be based on BigCommerce Order time
 	- these datetime field can be expand into Year, Quarter, Month, Week, Weekday, Day & time
 -  Database field
+
+### Quantity 
+
+
 ### 2. Quantity - Open_Qty
 
 - Definition 
 	- The total number of units sold within a specified period
+	- when a package SKU sold like A+B . the quantity should **count as 1**. Do not count the component SKU.
 	- net with **cancel order** quantity 
 - Metric Interaction with time
 	- The datetime the sales order is place and paid for.
@@ -130,14 +135,28 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 ### 5. SO variance%
 
 - Definition 
-	- The percentage change in the dollar amount of **Net** sales orders + shipping fee(#pending)  (net with cancelation) from one period **Month** compare to previous week
+		- The percentage change in the dollar amount of **Net** sales orders (net with cancelation) from one period **Month** compare to previous week
 	- This column doesn't separately calculate the %change in cancelled order, only net sales+ shipping fee
 ### 5.1 SO variance% -Weekly
 - This column of each week row display the % change compare to prior week
 ### 5.2 SO variance% -Monthly
 - This column of each monthly total row display the % change compare to prior month
 
-### 6 Quantity - Shippied_Qty
+
+### 6. SO_Budget_Sales 
+- provide by the finance department
+- budget amount for each category and department
+
+### 6. SO_Budget_variance%
+
+- Definition 
+		- The percentage change in the dollar amount of **Net** sales orders (net with cancelation) from one period **Month** compare to the **budget**
+	- This column doesn't separately calculate the %change in cancelled order, only net sales
+### 6.1 SO_Budget_variance% -Weekly
+- This column of each week row display the % change compare to the **budget**
+### 6.2 SO_Budget_variance% -Monthly
+- This column of each monthly total row display the % change compare to the **budget**
+### 7. Quantity - Shippied_Qty
 
 - Definition 
 	- The total number of units fulfilled a specified period
@@ -148,14 +167,14 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	
 - Database field
 
-#### 6.1 Shippied_Qty - Return 
+#### 7.1 Shippied_Qty - Return 
 
 - Definition 
 	- units **sold and fulfilled** within a specified period but order was return by customer
 
 - Metric Interaction with time
 	- it is shown based on the datetime order is **returned**
-#### 6.2 Shippied_Qty - Sales
+#### 7.2 Shippied_Qty - Sales
 
 - Definition 
 	- units **fulfilled** within a specified period
@@ -192,8 +211,8 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 
 - Metric Interaction with time
 	- it is shown based on the datetime order was placed
-	
-### 9. Variance
+
+### 9. Variance%
 
 - Definition 
 	- The percentage change in the dollar amount of **Net** Fulfilled sales orders + shipping fee (net with cancelation) from one week compare to previous peiord
@@ -201,9 +220,25 @@ This dashboard project is requested by Scarlett & Jie to make a dashboard templa
 	
 ### 9.1 variance% -Weekly
 - This column of each week row display the % change compare to prior week
+
 ### 9.2 variance% -Monthly
 - This column of each monthly total row display the % change compare to prior month
-### 10. Order Items
+
+### 10. Budget_Sales
+- provide by the finance department
+- budget amount for each category and department
+
+### 10. Budget_Variance%
+
+- Definition 
+	- The percentage change in the dollar amount of **Net** Fulfilled sales orders  (net with cancelation) from one week compare to the **budget**
+	- This column doesn't separately calculate the %change in cancelled order, only net sales
+	
+### 10.1 Budget_variance% -Weekly
+- This column of each week row display the % change compare to the **budget**
+### 10.2 Budget_variance% -Monthly
+- This column of each monthly total row display the % change compare to the **budget**
+### 11. Order Items
 
 In Netsuite each sales order has the following sales item type, this is how it is classified
 - Item type
@@ -211,7 +246,7 @@ In Netsuite each sales order has the following sales item type, this is how it i
 	3. Service item        - warranty or membership
 	4. Shipping item     - shipping fee
 
-### 11. Segmentations
+### 12. Segmentations
 
 We need to add a **filter** to enable user to select the follow segmentation to see the metrics
 

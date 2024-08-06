@@ -1,6 +1,6 @@
 ---
-title: 2024-7-17周报
-date: 2024-07-17
+title: 2024-8-7周报
+date: 2024-08-07
 categories:
   - 周报
 tags:
@@ -55,6 +55,10 @@ layout: post
 - [ ] Avalara Integration with Netsuite [2024-07-31-ZGallerie-Avalara-Netsuite-intergration]
 - [ ] weekly transfer money from paypal to Chase
 - [ ] UPS invoices payment nicolaspaul@ups.com
+- [x] UPS invoices payment call to pay
+- [ ] June Borrowing base certificate
+- [ ] July Borrowing base certificate
+- [ ]  **INV#06084517209 for Veritiv Operating Company**
 - [ ] Design PPT for Co-Op company with Pricing quote[[Design PPT for Co-Op company with Pricing quote|Design PPT for Co-Op company with Pricing quote]]
 - [x] ZG budget for 2024-2028
 -![[Pasted image 20240726150237.png]]
