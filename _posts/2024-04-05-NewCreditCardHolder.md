@@ -29,3 +29,11 @@ There are 2 tasks to finish your credit card setup.
 		1. Access Code 1: Last 4 SSN  
 		    
 		2. Access Code 2: Date of Month (DDMM)
+
+Once You receive your credit card there are some help for resources for you to use the 
+
+[CARDHOLDER QUICK REFERENCE](https://busfin.colostate.edu/Forms/Travel/Cardholder_Quick_Reference_PmtNet.pdf)
+
+[Mobile Cardholder Quick Start Guide](https://www.niu.edu/procurement/_pdf/card-services/jpm-mobile-quick-start-guide.pdf)
+
+You will be able to find more resource in https://www.paymentnet.jpmorgan.com/card/help/resources
