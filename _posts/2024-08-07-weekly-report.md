@@ -28,6 +28,12 @@ layout: post
 - [x] Sonia laid off
 - [x] Katy laid off
 - [x] NJ Building Insurance Renewal
+- [x] Hyt investment Tax
+- [x] google account suspend
+- [x]  **INV#06084517209 for Veritiv Operating Company**-FAKE
+- [x] COI for NJ building
+- [x] Design PPT for Co-Op company with Pricing quote[[美国合作供货商收付解决方案|美国合作供货商收付解决方案]]
+- [x] ZG budget for 2024-2028
 ---
 ### 本周项目
 
@@ -38,7 +44,6 @@ layout: post
 > they already cashed the check
 - [x] Karat Home Deposit machine Houston and DFW
 - [ ] F&H capital Tax
-- [x] Hyt investment Tax
 - [ ] Karart Home Federal 
 - [ ] Karart Home Texas 
 - [ ] BOI report for all the companies
@@ -46,23 +51,24 @@ layout: post
 - [ ] paypal financial issue
 - [ ] Marilulu LLC Sales Permit
 - [ ] Marilulu TFT PIR
-- [x] google account suspend
 - [ ] KH North Carolina Employer login unemployment
 - [ ] Amended March or Feb TX sales tax return
 - [ ] Amended March IL Sales Tax Return 
 - [ ] NJ Employer account termination   https://support.gusto.com/article/221005142111457/Closing-and-reopening-a-federal-state-or-local-tax-account
-- [ ] Bill.com Integration with Netsuite[2024-07-31-ZGallerie-Bill-Nestuite Intergration]
+- [x] Bill.com Integration with Netsuite[2024-07-31-ZGallerie-Bill-Nestuite Intergration] - not feasible 
 - [ ] Avalara Integration with Netsuite [2024-07-31-ZGallerie-Avalara-Netsuite-intergration]
 - [ ] weekly transfer money from paypal to Chase
 - [ ] UPS invoices payment nicolaspaul@ups.com
 - [x] UPS invoices payment call to pay
-- [ ] June Borrowing base certificate
+- [x] June Borrowing base certificate
 - [ ] July Borrowing base certificate
-- [ ]  **INV#06084517209 for Veritiv Operating Company**
-- [ ] Design PPT for Co-Op company with Pricing quote[[Design PPT for Co-Op company with Pricing quote|Design PPT for Co-Op company with Pricing quote]]
-- [x] ZG budget for 2024-2028
--![[Pasted image 20240726150237.png]]
-
+- [x] Priority List for NS development
+- [ ] **Seller's License applications** -CA
+- [ ] **Seller's License applications** - FL
+- [x] GIS Benefit Monthly download invoice to pay in bill.com
+- [ ] CA Q2 sales tax overdue
+- [ ] Ray Health Insurance adjust Beg Sep 1
+- [ ] Celigo intergation with avalara
 - [ ] Dashboard report for ZG[2024-07-31-ZGallerie-Sales-Dashboard-Report]![[salesDashborad.png]]
 
 

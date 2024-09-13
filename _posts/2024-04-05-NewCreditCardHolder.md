@@ -7,7 +7,7 @@ date: 2024-04-05
 tags:
   - Procedures
 ---
-Hi Shannon & Tony
+Dear New Credit Card User:
 
 We have set up a credit card for Karat home, so you can use the credit card for office expenses, travel, software subscriptions, and small incidental expenses.
 

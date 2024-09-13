@@ -256,3 +256,7 @@ We need to add a **filter** to enable user to select the follow segmentation to 
 - Collection
 
 **We need to be able to pull multiple segmentation in the same BI report.** 
+
+# SKU name
+- old sku name
+- new sku name

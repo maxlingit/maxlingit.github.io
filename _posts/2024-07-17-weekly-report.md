@@ -55,7 +55,7 @@ layout: post
 - [ ] Avalara Integration with Netsuite [2024-07-31-ZGallerie-Avalara-Netsuite-intergration]
 - [ ] weekly transfer money from paypal to Chase
 - [ ] UPS invoices payment nicolaspaul@ups.com
-- [ ] Design PPT for Co-Op company with Pricing quote[[Design PPT for Co-Op company with Pricing quote|Design PPT for Co-Op company with Pricing quote]]
+- [ ] Design PPT for Co-Op company with Pricing quote[[美国合作供货商收付解决方案|美国合作供货商收付解决方案]]
 - [x] ZG budget for 2024-2028
 -![[Pasted image 20240726150237.png]]
 
