@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Procedures
 title: Vendor Invoices Payment Process
 date: 2024-04-16
 tags:

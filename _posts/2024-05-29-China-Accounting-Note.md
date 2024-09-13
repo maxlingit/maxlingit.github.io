@@ -1,8 +1,8 @@
 ---
-title: 2024-5-29周报
+title: China-Accounting-Note
 date: 2024-05-29
 categories:
-  - Procedures
+  - 步骤
 tags:
   - F
   - JIE

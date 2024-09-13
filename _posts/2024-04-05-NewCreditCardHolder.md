@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Procedures
 title: Credit Card Holder setup
 date: 2024-04-05
 tags:
