@@ -30,9 +30,9 @@ Our main checking account has function to allow us to deposit check remotely usi
 - https://epson.com/Support/Point-of-Sale/Check-Scanners/Epson-TM-S1000-Series/s/SPT_A41A266111
 - Install : "TMS1000UTL104.exe"
 - After installation you should be able to see the folder named "TMS1000UTL104"
-- open the utility folder and you will see the icon : <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019078271/in/dateposted-public/" title="WeCom Screenshot_20240924140902"><img src="https://live.staticflickr.com/65535/54019078271_7d072d3133_m.jpg" width="240" height="30" alt="WeCom Screenshot_20240924140902"/></a>
+- open the utility folder and you will see the icon :  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019078271/in/dateposted-public/" title="WeCom Screenshot_20240924140902"><img src="https://live.staticflickr.com/65535/54019078271_7d072d3133_m.jpg" width="240" height="30" alt="WeCom Screenshot_20240924140902"/></a>
 - click on "scan test", like the following picture
-			 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/200306688@N08/54019521730/in/dateposted-public/" title="scan test"><img src="https://live.staticflickr.com/65535/54019521730_c4dbac9507_w.jpg" width="400" height="120" alt="center"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019521730/in/dateposted-public/" title="scan test"><img src="https://live.staticflickr.com/65535/54019521730_c4dbac9507.jpg" width="500" height="150" alt="scan test"/></a>
 - Select "operation check" and make sure you put a check in the scanner at the right position
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019320418/in/dateposted-public/" title="operation check"><img src="https://live.staticflickr.com/65535/54019320418_01b4a6a12e_w.jpg" width="397" height="400" alt="operation check"/></a>
 - if the test success, you will be able to see the image of the check

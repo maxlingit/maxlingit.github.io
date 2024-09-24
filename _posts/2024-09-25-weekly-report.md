@@ -56,7 +56,7 @@ layout: post
 	- [ ] 14K NY uncashed check.
 - [ ] Future Job Responsibility -contractor
 - [ ] Karat Home PTO policy Change to accrual
-- [ ] Create Karat Home Office Credit Card
+- [x] Create Karat Home Office Credit Card
 - [ ] PCI verification on new Merchant
 - [ ] AfterShip Double Pay refund
 - [x] patrick reimbursement issue
