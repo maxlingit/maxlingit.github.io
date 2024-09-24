@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - 步骤
+  - Report
 title: Karat Home Audit Review需要的会计调整
 date: 2024-04-30
 tags:

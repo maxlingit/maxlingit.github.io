@@ -10,13 +10,13 @@ tags:
   - F
 ---
 
-- [ ] Understanding our Bank
-	- [ ] JPM Account Setup
+- [x] Understanding our Bank
+	- [x] JPM Account Setup
 	- [x] View Transaction
 	- [x] Download Transaction
 	- [x] SVB - Go checking  ZG gallerie. ->SVB Merchant Account. Old ZG
 	
-- [ ] Credit Card
+- [x] Credit Card
 	- [x] ZG
 	- [x] Karat Home
 	- [x] Card User Account setup
@@ -24,7 +24,7 @@ tags:
 	- [x] Credit Limit
 	- [x] Payment
 	- [x] Transaction download
-	- [ ] Credit Card Receipts
+	- [x] Credit Card Receipts
 	
 - [x] Bill.com Vendor Setup
 	- [x] Vendor Tax ID
@@ -47,9 +47,9 @@ tags:
 	- [x] Employee dismissal
 	- [x] Expense Reimbursement
 	
-- [ ] ZG & KH QuickBooks
+- [x] ZG & KH QuickBooks
 	- [ ] Start chart of account
 
-- [ ] Stripe and Paypal
-	- [ ] Reconcile to bank
-	- [ ] Transaction report
+- [x] Stripe and Paypal
+	- [x] Reconcile to bank
+	- [x] Transaction report

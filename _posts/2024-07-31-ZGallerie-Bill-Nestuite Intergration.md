@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - Procedures
+  - Report
 title: ZGallerie Bill Nestuite Intergration
 date: 2024-08-01
 tags:

@@ -2,7 +2,7 @@
 title: Netsuite Accounting Flow Chart
 date: 2024-07-19
 categories:
-  - Procedures
+  - Report
 tags:
   - F
   - JIE
