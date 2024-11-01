@@ -30,7 +30,7 @@ Our main checking account has function to allow us to deposit check remotely usi
 - https://epson.com/Support/Point-of-Sale/Check-Scanners/Epson-TM-S1000-Series/s/SPT_A41A266111
 - Install : "TMS1000UTL104.exe"
 - After installation you should be able to see the folder named "TMS1000UTL104"
-- open the utility folder and you will see the icon :  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019078271/in/dateposted-public/" title="WeCom Screenshot_20240924140902"><img src="https://live.staticflickr.com/65535/54019078271_7d072d3133_m.jpg" width="240" height="30" alt="WeCom Screenshot_20240924140902"/></a>
+- open the utility folder and you will see the icon :  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019078271/in/dateposted-public/" title="WeCom Screenshot_20240924140902"><img src="https://live.staticflickr.com/65535/54019078271_b0b663cb53_o.png" width="244" height="30" alt="WeCom Screenshot_20240924140902"/></a>
 - click on "scan test", like the following picture
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200306688@N08/54019521730/in/dateposted-public/" title="scan test"><img src="https://live.staticflickr.com/65535/54019521730_c4dbac9507.jpg" width="500" height="150" alt="scan test"/></a>
 - Select "operation check" and make sure you put a check in the scanner at the right position
@@ -43,6 +43,9 @@ Our main checking account has function to allow us to deposit check remotely usi
 - You will need to set up your own password
 ## 4. Download J.P Morgan driver
 - Once you access to the Jp Morgan online banking
+- Click "Receivable" ->"remote capture"
+ ![[REMOTE CATURE.png]]
+- The the website will detect the missing driver, click "download scan software" ![[WXWorkCapture_17278915368476.png]]
 - Please follow this guide to access the remote capture function and download JP Morgan driver
 	- https://drive.google.com/file/d/1Zg33ruJnIicLUBhcuMqM9WcA4RjV-scc/view?usp=drive_link
 - if you can't find it, you can also visit the link to download: 

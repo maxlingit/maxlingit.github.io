@@ -19,3 +19,10 @@ tags:
 Avalara: 
 	Document code:  cogc1vyegn_1011439_de69e1
 Netsuite:  SOZG031007
+
+# Pending Items
+1. Location must be in DC address
+2. Latitude and log 
+3. Inventory location can be anything
+4. Customer Shipping address must match bigCommerce 
+5. Shipping state name must match

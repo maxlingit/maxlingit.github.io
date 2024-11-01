@@ -37,9 +37,12 @@ img_path: /assets/img/POSMachine/
 Pw:16G36120    SN:4881
 Pw: 16G36120    SN:7005
 
+### To print transaction report
 
-
-
+1. Enter Admin password -> press  #*
+2. select - > 0  report menu
+3. select -> 1 detail report or 2 Summary
+4. Print
 
 
 

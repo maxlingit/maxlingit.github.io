@@ -1,6 +1,6 @@
 ---
-title: 2024-9-25周报
-date: 2024-09-25
+title: 2024-10-05周报
+date: 2024-10-05
 categories:
   - 周报
 tags:
@@ -12,54 +12,52 @@ layout: post
 
 ### 完成项目  
 
-- [x] Google Ad verification
-- [x] Monthly Canada GST
-	- [x] BC
-	- [x] GST
-	- [x] QC
-	- [x] MB
-	- [x] SK
-- [x] Karat Home PTO policy Change to accrual
-- [x] Create Karat Home Office Credit Card
-- [x] patrick reimbursement issue
-- [x] lori dissmiss
-	- [x] insurance -David will do 
-	- [x] deduction - deduct last paycheck
-- [x] Q3 tax estimate
-	- [x] KARAT HOME 
-	- [x] Hulala Home
-	- [x] Art of living
-	- [x] ZG
-	- [x] Ecom
-	- [x] HomeNest
-	- [x] Tina Home
-	- [x] EEKO Home
-	- [x] Urban Living
-- [x] Karat home Credit card limit
-- [x] Converage James Account
-- [x] JP Morgan Check Scan Machine
-- [x] Granite Communication
-- [x] NV SST RETURN FILING CHECK
-- [x] Karat Home 9-27 Payroll
-- [x] KH credit Limit
-- [x] MO AUG SALES TAX FILING
-- [x] Karat Home China Credit Card Increase to 100K
-
+- [x] Karart Home Federal 
+- [x] Karart Home Texas 
+- [ ] Monthly Recurring Project
+	- [x] BCBS TX Payment
+	- [x] Monthly JPM Borrowing Base Certificate
+	- [ ] Canada Sales tax
+	- [x] Art of living sales tax
+	- [x] Amazon AWS Payment
+	- [x] EMC insurance Premium Payment
+	- [ ] ZG Sales Tax
+	- [x] GIS Benefit monthly bill download
+	- [ ] Raymond Leasing monthly bill
+- [x] Weekly Recurring Project
+	- [x] weekly transfer money from paypal to Chase
+- [x] KH North Carolina Employer login unemployment
+- [x] Delete all the avalara transaction before next import
+- [x] Aug Borrow Base Certificate
+- [x] NJ Unemployment tax termination
+- [x] Hulala Home Extend Registration CA
+- [x] Hulala Home Extend Registration FL
+- [x] JPM - FX payment 
+- [x] ECOM CHECK DEPOSIT $900
+- [x] JPM - possible Lockbock system
+- [x] JPM - ZG transaction download retention day 1 year
+- [x] AR insurance 4th Payment
+- [x] GA sales exempt certificate
+- [x] Karat Home Payroll
+- [x] Karat Home Credit card payment and limit
+- [x] Karat Home Sobia Access
+- [x] Karat Home Tona Credit Card suspend
+- [x] Google Payment Profile
+- [x] Google ad connect to Payment Profile
+- [x] Verify Google payment account payment method 0.25
 ---
 ### 本周项目
 
 - [ ] Please reach out to Scott Dale asap #JIE    [[Scott Dale of Dale Law Office]]    
 > waiting to pay retainer first
 > they already cashed the check
-- [ ] Karart Home Federal 
-- [ ] Karart Home Texas 
 - [ ] BOI report for all the companies January 1, 2025
-- [x] Monthly Canada GST
-	- [x] BC
-	- [x] GST
-	- [x] QC
-	- [x] MB
-	- [x] SK
+- [ ] Monthly Canada GST
+	- [ ] BC
+	- [ ] GST
+	- [ ] QC
+	- [ ] MB
+	- [ ] SK
 - [ ] Monthly Recurring Project
 	- [ ] BCBS TX Payment
 	- [ ] Monthly JPM Borrowing Base Certificate
@@ -69,11 +67,10 @@ layout: post
 	- [ ] EMC insurance Premium Payment
 	- [ ] ZG Sales Tax
 	- [ ] GIS Benefit monthly bill download
+	- [ ] Raymond Leasing monthly bill
 - [ ] Weekly Recurring Project
 	- [ ] weekly transfer money from paypal to Chase
 - [ ] Karat Home ECheck with Danni
-- [ ] paypal financial issue
-- [ ] KH North Carolina Employer login unemployment
 - [ ] Amended March or Feb TX sales tax return
 - [ ] Amended March IL Sales Tax Return 
 - [ ] NJ Employer account termination   https://support.gusto.com/article/221005142111457/Closing-and-reopening-a-federal-state-or-local-tax-account
@@ -92,21 +89,31 @@ layout: post
 - [ ] Credit Card Receipts
 - [ ] EMC Claim
 - [ ] Move all the ZG auto Charge to new CC
-- [ ] Delete all the avalara transaction before next import
-- [ ] Reneal for AR insurance
-- [ ] Aug Borrow Base Certificate
+- [ ] Renewal for AR insurance
 - [ ] Sep Borrow Base Certificate
-- [ ] ECOM CHECK DEPOSIT $900
 - [ ] Gardena Property Tax
-- [ ] NJ Unemployment tax
-- [ ] Hulala Home Extend Registration CA
-- [ ] Hulala Home Extend Registration FL
 - [ ] Remote Capture for more entities
 	- [ ] HLL
 	- [ ] ART
 	- [ ] ZG
 	- [ ] Ecom
 - [ ] Start a Quickbook account to manage expense for ZG (Bill.com , credit cards)
+- [ ] JPM - ACH Blocks
+- [ ] JPM - hybrid account
+- [x] JPM - Talk to Scarlett about the Hybrid account for KH
+- [ ] GA Sales tax ID obtain from mail call 8774236711
+- [ ] Quickbook- BIll.com intergation ZG
+- [ ] Quickbook- Gusto Intergration
+- [x] Shannon NC-4 certificate
+- [x] Karat Home Payroll
+- [ ] Verify a payment with JPM  REF:CB2VFXB  **888-883-7199**
+- [x] KH Fraud alert JS Yard Technology 2M 888-619-3053
+- [ ] Possible KH Lease Guarantor 
+- [ ] Change ZG FL sales tax to Monthly beg 1/2025
+- [ ] teach bobby use POS machine
+- [ ] KH credit Card Reward
+- [ ] take over Bigtree Tax Return Filing
+- [ ] ZG bill.com  QB integration clean up 
 
 
 
