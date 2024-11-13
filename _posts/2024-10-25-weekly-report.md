@@ -42,7 +42,7 @@ layout: post
 - [ ] Amended March or Feb TX sales tax return
 - [ ] Amended March IL Sales Tax Return 
 - [ ] NJ Employer account termination   https://support.gusto.com/article/221005142111457/Closing-and-reopening-a-federal-state-or-local-tax-account
-- [ ] Avalara Integration with Netsuite [[2024-07-31-ZGallerie-Avalara-Netsuite-in tergration]]
+- [x] Avalara Integration with Netsuite [[2024-07-31-ZGallerie-Avalara-Netsuite-in tergration]]
 - [ ] Google Payment issue
 	- [x] Google Invoice $100,000 payment by Sep 1
 	- [x] Google Invoice $86,000 payment by Oct1
@@ -82,6 +82,20 @@ layout: post
 - [ ] KH credit Card Reward
 - [ ] take over Bigtree Tax Return Filing
 - [ ] ZG bill.com  QB integration clean up 
+- [x] Ownership Report for Jie
+- [x] ZG Credit Card
+- [x] avalara follow up
+- [x] W-9 for Aol
+- [x] W-9 for Tina Home Dec
+- [x] W-9 for Ecommerce Logistic
+- [x] KH Payroll
+- [x] ZG PAYROLL
+- [x] ECOM PAYROLL
+- [ ] Mark insurance underwriting question
+- [ ] CA benefit audit- mark hoehner
+- [ ] Florida benefit claim
+- [ ] W-9 Tax ID error for J&H Welding
+- [ ] KH 2023 Income tax additional Interest
 
 
 
