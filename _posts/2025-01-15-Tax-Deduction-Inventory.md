@@ -44,11 +44,11 @@ The regulations define an “ill person” as one requiring medical care. This i
 - Partially or totally incapable of self-care (including due to old age)
 - With mental illness if hospitalized/institutionalized or if the illness constitutes a significant health impairment
 
-A “needy person” is defined as one who lacks life’s necessities involving physical, mental, or emotional well-being due to poverty or temporary distress. Examples include:
+A “**needy person**” is defined as one who lacks life’s necessities involving physical, mental, or emotional well-being due to poverty or temporary distress. Examples include:
 
 - Those financially impoverished due to low income
 - Individuals temporarily lacking food or shelter
-- Victims of natural disasters (like fires or floods)
+- **Victims of natural disasters (like fires or floods)**
 - Victims of civil disasters
 - Those temporarily not self-sufficient due to sudden crisis
 - Refugees or immigrants experiencing language, cultural, or financial difficulties
